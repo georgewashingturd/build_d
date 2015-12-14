@@ -1,0 +1,1676 @@
+mk2410 -a -f player.mak SM DEFINE_SM=TRUE
+
+Converting Header File ..\..\project.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\project.inc  ..\output_3410\include\project.h
+
+Converting Header File ..\..\..\..\..\inc\msgequ.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\msgequ.inc  ..\output_3410\include\messages.h
+
+Compiling ..\..\..\..\..\system\msgmodules\software\softtimer\softtimers.c
+call ..\..\..\..\..\etc\move softtimers.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\softtimers.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\softtimers.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\effects\graphiceq\geq_overlay.asm
+call ..\..\..\..\..\etc\move geq_overlay.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\geq_overlay.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\geq_overlay.lst [ok]
+
+Converting Header File ..\..\..\..\..\projects\creative\pager\player\resource.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\projects\creative\pager\player\resource.inc  ..\output_3410\include\resource.h
+
+Converting Header File "..\..\..\..\..\inc\sysequ.inc" 
+..\..\..\..\..\bin\inctoc.exe "..\..\..\..\..\inc\sysequ.inc"  ..\output_3410\include\sysequ.h
+
+Compiling ..\..\..\..\..\projects\creative\pager\player\menus\mainmenu.c
+call ..\..\..\..\..\etc\move mainmenu.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mainmenu.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mainmenu.lst [ok]
+
+Compiling ..\..\..\..\..\projects\creative\pager\player\menus\display.c
+call ..\..\..\..\..\etc\move display.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\display.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\display.lst [ok]
+
+Compiling ..\..\..\..\..\projects\creative\pager\player\menus\playerstatemachine.c
+call ..\..\..\..\..\etc\move playerstatemachine.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\playerstatemachine.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\playerstatemachine.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\hardware\led\led.asm
+call ..\..\..\..\..\etc\move led.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\led.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\led.lst [ok]
+
+Assembling ..\..\..\..\..\projects\creative\pager\player\leddisplayapi\ledtable.asm
+call ..\..\..\..\..\etc\move ledtable.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\ledtable.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\ledtable.lst [ok]
+
+Compiling ..\..\..\..\..\system\common\checkremovablemedia.c
+call ..\..\..\..\..\etc\move checkremovablemedia.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\checkremovablemedia.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\checkremovablemedia.lst [ok]
+
+Assembling ..\..\..\..\..\projects\creative\pager\player\main.asm
+call ..\..\..\..\..\etc\move main.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\main.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\main.lst [ok]
+
+Assembling ..\..\..\..\..\projects\creative\pager\player\msgs.asm
+call ..\..\..\..\..\etc\move msgs.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\msgs.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\msgs.lst [ok]
+
+Assembling ..\..\..\..\..\system\exec\sysbrownout.asm
+call ..\..\..\..\..\etc\move sysbrownout.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysbrownout.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysbrownout.lst [ok]
+
+Assembling ..\..\..\..\..\system\exec\sysheadphoneshort.asm
+call ..\..\..\..\..\etc\move sysheadphoneshort.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysheadphoneshort.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysheadphoneshort.lst [ok]
+
+Assembling ..\..\..\..\..\projects\creative\pager\player\system\modulemsg.asm
+call ..\..\..\..\..\etc\move modulemsg.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\modulemsg.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\modulemsg.lst [ok]
+
+Assembling ..\..\..\..\..\projects\creative\pager\player\system\mediamap.asm
+call ..\..\..\..\..\etc\move mediamap.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mediamap.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mediamap.lst [ok]
+
+Compiling ..\..\..\..\..\system\common\sysheadphones.c
+call ..\..\..\..\..\etc\move sysheadphones.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysheadphones.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysheadphones.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\syshwinit.asm
+call ..\..\..\..\..\etc\move syshwinit.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\syshwinit.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\syshwinit.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\effects\graphiceq\geq.asm
+call ..\..\..\..\..\etc\move geq.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\geq.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\geq.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\effects\graphiceq\geqmem.asm
+call ..\..\..\..\..\etc\move geqmem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\geqmem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\geqmem.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\imaadpcm\dec_adpcm_nonoverlay.asm
+call ..\..\..\..\..\etc\move dec_adpcm_nonoverlay.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dec_adpcm_nonoverlay.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dec_adpcm_nonoverlay.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\imaadpcm\dec_adpcm_overlay.asm
+call ..\..\..\..\..\etc\move dec_adpcm_overlay.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dec_adpcm_overlay.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dec_adpcm_overlay.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\imaadpcm\dec_adpcm_mem.asm
+call ..\..\..\..\..\etc\move dec_adpcm_mem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dec_adpcm_mem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dec_adpcm_mem.lst [ok]
+
+Assembling ..\..\..\..\..\algorithms\decoders\mp3\mp3dec.asm
+call ..\..\..\..\..\etc\move mp3dec.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mp3dec.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mp3dec.lst [ok]
+
+Assembling ..\..\..\..\..\algorithms\decoders\mp3\mp3mem.asm
+call ..\..\..\..\..\etc\move mp3mem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mp3mem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mp3mem.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\mp3\decoder_nonoverlay.asm
+call ..\..\..\..\..\etc\move decoder_nonoverlay.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\decoder_nonoverlay.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\decoder_nonoverlay.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\mp3\decoder_overlay.asm
+call ..\..\..\..\..\etc\move decoder_overlay.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\decoder_overlay.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\decoder_overlay.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\mp3\decodermem.asm
+call ..\..\..\..\..\etc\move decodermem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\decodermem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\decodermem.lst [ok]
+
+Assembling ..\..\..\..\..\algorithms\decoders\wma\wmadec.asm
+call ..\..\..\..\..\etc\move wmadec.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\wmadec.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\wmadec.lst [ok]
+
+Assembling ..\..\..\..\..\algorithms\decoders\wma\wmamem.asm
+call ..\..\..\..\..\etc\move wmamem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\wmamem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\wmamem.lst [ok]
+
+Assembling ..\..\..\..\..\algorithms\decoders\wma\wmagetdata.asm
+call ..\..\..\..\..\etc\move wmagetdata.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\wmagetdata.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\wmagetdata.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\wma\wma_decoder_nonoverlay.asm
+call ..\..\..\..\..\etc\move wma_decoder_nonoverlay.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\wma_decoder_nonoverlay.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\wma_decoder_nonoverlay.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\wma\wma_decoder_overlay.asm
+call ..\..\..\..\..\etc\move wma_decoder_overlay.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\wma_decoder_overlay.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\wma_decoder_overlay.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\wma\wma_decodermem.asm
+call ..\..\..\..\..\etc\move wma_decodermem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\wma_decodermem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\wma_decodermem.lst [ok]
+
+Assembling ..\..\..\..\..\system\const.asm
+call ..\..\..\..\..\etc\move const.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\const.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\const.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\hardware\mixer\mixer.asm
+call ..\..\..\..\..\etc\move mixer.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mixer.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mixer.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysvoice.asm
+call ..\..\..\..\..\etc\move sysvoice.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysvoice.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysvoice.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysdir.asm
+call ..\..\..\..\..\etc\move sysdir.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysdir.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysdir.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\system\systemapi.asm
+as2410 W118: D:\proj\pager\temp\system\msgmodules\software\system\systemapi.asm: line 554 : inserted "extern FPowerDownHeadPhones"
+call ..\..\..\..\..\etc\move systemapi.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\systemapi.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\systemapi.lst [ok]
+
+Assembling ..\..\..\..\..\devicedriver\media\smartmedia\system\sysresource_nand_dd.asm
+call ..\..\..\..\..\etc\move sysresource_nand_dd.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysresource_nand_dd.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysresource_nand_dd.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\parser\parser.asm
+call ..\..\..\..\..\etc\move parser.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\parser.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\parser.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\parser\parser_voice.asm
+call ..\..\..\..\..\etc\move parser_voice.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\parser_voice.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\parser_voice.lst [ok]
+
+Assembling ..\..\..\..\..\system\msgmodules\software\parser\parsermem.asm
+call ..\..\..\..\..\etc\move parsermem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\parsermem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\parsermem.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysusb.asm
+call ..\..\..\..\..\etc\move sysusb.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysusb.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysusb.lst [ok]
+
+Compiling "..\..\..\..\..\system\common\mediadetection.c"
+call ..\..\..\..\..\etc\move mediadetection.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mediadetection.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mediadetection.lst [ok]
+
+Assembling ..\..\..\..\..\system\exec\c_menu_kernel\syswaitonevent.asm
+call ..\..\..\..\..\etc\move syswaitonevent.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\syswaitonevent.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\syswaitonevent.lst [ok]
+
+Assembling ..\..\..\..\..\system\exec\c_menu_kernel\userkernel.asm
+call ..\..\..\..\..\etc\move userkernel.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\userkernel.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\userkernel.lst [ok]
+
+Assembling ..\..\..\..\..\system\exec\c_menu_kernel\syscallfunction.asm
+call ..\..\..\..\..\etc\move syscallfunction.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\syscallfunction.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\syscallfunction.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysmem.asm
+call ..\..\..\..\..\etc\move sysmem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysmem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysmem.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysmisc.asm
+call ..\..\..\..\..\etc\move sysmisc.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysmisc.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysmisc.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\syscoder.asm
+call ..\..\..\..\..\etc\move syscoder.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\syscoder.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\syscoder.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysspeed.asm
+call ..\..\..\..\..\etc\move sysspeed.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysspeed.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysspeed.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\systime.asm
+call ..\..\..\..\..\etc\move systime.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\systime.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\systime.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysirq.asm
+call ..\..\..\..\..\etc\move sysirq.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysirq.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysirq.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\syserror.asm
+call ..\..\..\..\..\etc\move syserror.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\syserror.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\syserror.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\systimers.asm
+call ..\..\..\..\..\etc\move systimers.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\systimers.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\systimers.lst [ok]
+
+Assembling ..\..\..\..\..\system\exec\sysmodule.asm
+call ..\..\..\..\..\etc\move sysmodule.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysmodule.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysmodule.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\bufdesc.asm
+call ..\..\..\..\..\etc\move bufdesc.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\bufdesc.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\bufdesc.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\stack.asm
+call ..\..\..\..\..\etc\move stack.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\stack.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\stack.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\stackmem.asm
+call ..\..\..\..\..\etc\move stackmem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\stackmem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\stackmem.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\syspostmsg.asm
+call ..\..\..\..\..\etc\move syspostmsg.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\syspostmsg.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\syspostmsg.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysresource_light_fs.asm
+call ..\..\..\..\..\etc\move sysresource_light_fs.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysresource_light_fs.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysresource_light_fs.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\dacdrv.asm
+call ..\..\..\..\..\etc\move dacdrv.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dacdrv.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dacdrv.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\dacisr.asm
+call ..\..\..\..\..\etc\move dacisr.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dacisr.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dacisr.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\copybuffer.asm
+call ..\..\..\..\..\etc\move copybuffer.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\copybuffer.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\copybuffer.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\dacmemy.asm
+call ..\..\..\..\..\etc\move dacmemy.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dacmemy.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dacmemy.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\copybufmem.asm
+call ..\..\..\..\..\etc\move copybufmem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\copybufmem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\copybufmem.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\daccoefs.asm
+call ..\..\..\..\..\etc\move daccoefs.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\daccoefs.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\daccoefs.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\dacmem.asm
+call ..\..\..\..\..\etc\move dacmem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dacmem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dacmem.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\fgndexec.asm
+call ..\..\..\..\..\etc\move fgndexec.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fgndexec.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fgndexec.lst [ok]
+
+Assembling ..\..\..\..\..\system\fgndmodules\moduletable.asm
+call ..\..\..\..\..\etc\move moduletable.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\moduletable.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\moduletable.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\syssettings.asm
+call ..\..\..\..\..\etc\move syssettings.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\syssettings.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\syssettings.lst [ok]
+
+Assembling ..\..\..\..\..\devicedriver\userinput\buttons\button.asm
+as2410 W127: D:\proj\pager\temp\Projects\creative\pager\Player\buttonsdef.inc: line 13 : redefinition of macro "DEFINE_ROW"
+as2410 W127: D:\proj\pager\temp\Projects\creative\pager\Player\buttonsdef.inc: line 19 : redefinition of macro "DEFINE_COLUMN"
+as2410 W127: D:\proj\pager\temp\Projects\creative\pager\Player\buttonsdef.inc: line 26 : redefinition of macro "DEFINE_SCAN_BUTTON_EVENT"
+as2410 W127: D:\proj\pager\temp\Projects\creative\pager\Player\buttonsdef.inc: line 30 : redefinition of macro "DEFINE_NON_SCAN_BUTTON"
+as2410 W127: D:\proj\pager\temp\Projects\creative\pager\Player\buttonsdef.inc: line 36 : redefinition of macro "DEFINE_NON_SCAN_BUTTON_EVENT"
+as2410 W127: D:\proj\pager\temp\Projects\creative\pager\Player\buttonsdef.inc: line 40 : redefinition of macro "DEFINE_MAPPED_EVENT"
+call ..\..\..\..\..\etc\move button.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\button.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\button.lst [ok]
+
+Compiling ..\..\..\..\..\system\common\lowresolutionadc.c
+call ..\..\..\..\..\etc\move lowresolutionadc.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\lowresolutionadc.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\lowresolutionadc.lst [ok]
+
+Compiling ..\..\..\..\..\system\common\battery.c
+call ..\..\..\..\..\etc\move battery.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\battery.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\battery.lst [ok]
+
+Compiling ..\..\..\..\..\projects\creative\pager\player\system\miscproject.c
+call ..\..\..\..\..\etc\move miscproject.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\miscproject.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\miscproject.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashreadpagerdntareasync.asm"
+call ..\..\..\..\..\etc\move flashreadpagerdntareasync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashreadpagerdntareasync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashreadpagerdntareasync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\mdtutils.asm"
+call ..\..\..\..\..\etc\move mdtutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mdtutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mdtutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\packutils.asm"
+call ..\..\..\..\..\etc\move packutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\packutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\packutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\getpagerdntarea.asm"
+call ..\..\..\..\..\etc\move getpagerdntarea.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getpagerdntarea.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getpagerdntarea.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\getsmstatus.asm"
+call ..\..\..\..\..\etc\move getsmstatus.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getsmstatus.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getsmstatus.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\halutils.asm"
+call ..\..\..\..\..\etc\move halutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\halutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\halutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\smartmediadetection.asm"
+call ..\..\..\..\..\etc\move smartmediadetection.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\smartmediadetection.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\smartmediadetection.lst [ok]
+
+Compiling ..\..\..\..\..\system\common\sysserialnumber.c
+call ..\..\..\..\..\etc\move sysserialnumber.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysserialnumber.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysserialnumber.lst [ok]
+
+Compiling "..\..\..\..\..\devicedriver\media\smartmedia\smartmediaserialnumber.c"
+call ..\..\..\..\..\etc\move smartmediaserialnumber.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\smartmediaserialnumber.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\smartmediaserialnumber.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\smddheader.asm"
+call ..\..\..\..\..\etc\move smddheader.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\smddheader.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\smddheader.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flasheraserawblock.asm"
+call ..\..\..\..\..\etc\move flasheraserawblock.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flasheraserawblock.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flasheraserawblock.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashwritepagerdntareasync.asm"
+call ..\..\..\..\..\etc\move flashwritepagerdntareasync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashwritepagerdntareasync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashwritepagerdntareasync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\markbadblk.asm"
+call ..\..\..\..\..\etc\move markbadblk.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\markbadblk.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\markbadblk.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\copyutils.asm"
+call ..\..\..\..\..\etc\move copyutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\copyutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\copyutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashwriterawpagesync.asm"
+call ..\..\..\..\..\etc\move flashwriterawpagesync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashwriterawpagesync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashwriterawpagesync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashrelocateblock.asm"
+call ..\..\..\..\..\etc\move flashrelocateblock.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashrelocateblock.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashrelocateblock.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashwritepagesync.asm"
+call ..\..\..\..\..\etc\move flashwritepagesync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashwritepagesync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashwritepagesync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashwritepageseq.asm"
+call ..\..\..\..\..\etc\move flashwritepageseq.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashwritepageseq.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashwritepageseq.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\zonemaputils_write.asm"
+call ..\..\..\..\..\etc\move zonemaputils_write.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\zonemaputils_write.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\zonemaputils_write.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\putpagesync.asm"
+call ..\..\..\..\..\etc\move putpagesync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\putpagesync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\putpagesync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\putpagerdntarea.asm"
+call ..\..\..\..\..\etc\move putpagerdntarea.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\putpagerdntarea.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\putpagerdntarea.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\eraseblock.asm"
+call ..\..\..\..\..\etc\move eraseblock.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\eraseblock.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\eraseblock.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\sal\flashwritesectorsync.asm"
+call ..\..\..\..\..\etc\move flashwritesectorsync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashwritesectorsync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashwritesectorsync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\eccutils.asm"
+call ..\..\..\..\..\etc\move eccutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\eccutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\eccutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\ecctable.asm"
+call ..\..\..\..\..\etc\move ecctable.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\ecctable.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\ecctable.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\buffer.asm"
+call ..\..\..\..\..\etc\move buffer.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\buffer.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\buffer.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\mdtable.asm"
+call ..\..\..\..\..\etc\move mdtable.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mdtable.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mdtable.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\cisidi.asm"
+call ..\..\..\..\..\etc\move cisidi.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\cisidi.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\cisidi.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\log2phytable.asm"
+call ..\..\..\..\..\etc\move log2phytable.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\log2phytable.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\log2phytable.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\streamutils.asm"
+call ..\..\..\..\..\etc\move streamutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\streamutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\streamutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashreadfirstgoodpagesync.asm"
+call ..\..\..\..\..\etc\move flashreadfirstgoodpagesync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashreadfirstgoodpagesync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashreadfirstgoodpagesync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\validatemedia.asm"
+call ..\..\..\..\..\etc\move validatemedia.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\validatemedia.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\validatemedia.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\processpt.asm"
+call ..\..\..\..\..\etc\move processpt.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\processpt.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\processpt.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\processid.asm"
+call ..\..\..\..\..\etc\move processid.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\processid.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\processid.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\devinstalled.asm"
+call ..\..\..\..\..\etc\move devinstalled.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\devinstalled.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\devinstalled.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\makezonemap.asm"
+call ..\..\..\..\..\etc\move makezonemap.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\makezonemap.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\makezonemap.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\log2phyutils.asm"
+call ..\..\..\..\..\etc\move log2phyutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\log2phyutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\log2phyutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\rdntareautils.asm"
+call ..\..\..\..\..\etc\move rdntareautils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\rdntareautils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\rdntareautils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\zonemaputils.asm"
+call ..\..\..\..\..\etc\move zonemaputils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\zonemaputils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\zonemaputils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\datautils.asm"
+call ..\..\..\..\..\etc\move datautils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\datautils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\datautils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\datautils_write.asm"
+call ..\..\..\..\..\etc\move datautils_write.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\datautils_write.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\datautils_write.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\errorutils.asm"
+call ..\..\..\..\..\etc\move errorutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\errorutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\errorutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashreadpagesync.asm"
+call ..\..\..\..\..\etc\move flashreadpagesync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashreadpagesync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashreadpagesync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\ddi\flashreadrawpagesync.asm"
+call ..\..\..\..\..\etc\move flashreadrawpagesync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashreadrawpagesync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashreadrawpagesync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\sal\flashreadsector.asm"
+call ..\..\..\..\..\etc\move flashreadsector.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashreadsector.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashreadsector.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\sal\flashgetserialnumber.asm"
+call ..\..\..\..\..\etc\move flashgetserialnumber.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashgetserialnumber.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashgetserialnumber.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\sal\flashreadsectorsync.asm"
+call ..\..\..\..\..\etc\move flashreadsectorsync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashreadsectorsync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashreadsectorsync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\sal\sec2logutils.asm"
+call ..\..\..\..\..\etc\move sec2logutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sec2logutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sec2logutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\sal\flashdriverinit.asm"
+call ..\..\..\..\..\etc\move flashdriverinit.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashdriverinit.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashdriverinit.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\sal\queryutils.asm"
+call ..\..\..\..\..\etc\move queryutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\queryutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\queryutils.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\getpagesync.asm"
+call ..\..\..\..\..\etc\move getpagesync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getpagesync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getpagesync.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\getsmid.asm"
+call ..\..\..\..\..\etc\move getsmid.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getsmid.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getsmid.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\hal\resetmedia.asm"
+call ..\..\..\..\..\etc\move resetmedia.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\resetmedia.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\resetmedia.lst [ok]
+
+Assembling "..\..\..\..\..\devicedriver\media\smartmedia\fat\sal\flashreadfatsectorsync.asm"
+call ..\..\..\..\..\etc\move flashreadfatsectorsync.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\flashreadfatsectorsync.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\flashreadfatsectorsync.lst [ok]
+
+Assembling ..\..\..\..\..\system\common\sysfunclet.asm
+call ..\..\..\..\..\etc\move sysfunclet.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\sysfunclet.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\sysfunclet.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\x_memory\string_x.asm"
+call ..\..\..\..\..\etc\move string_x.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\string_x.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\string_x.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\y_memory\var_y.asm"
+call ..\..\..\..\..\etc\move var_y.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\var_y.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\var_y.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\word.asm"
+call ..\..\..\..\..\etc\move word.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\word.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\word.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\divide.asm"
+call ..\..\..\..\..\etc\move divide.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\divide.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\divide.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\modulo.asm"
+call ..\..\..\..\..\etc\move modulo.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\modulo.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\modulo.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\math32.asm"
+call ..\..\..\..\..\etc\move math32.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\math32.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\math32.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\chrono.asm"
+call ..\..\..\..\..\etc\move chrono.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\chrono.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\chrono.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\getwordbyte.asm"
+call ..\..\..\..\..\etc\move getwordbyte.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getwordbyte.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getwordbyte.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\wordputbyte.asm"
+call ..\..\..\..\..\etc\move wordputbyte.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\wordputbyte.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\wordputbyte.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\pointer.asm"
+call ..\..\..\..\..\etc\move pointer.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\pointer.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\pointer.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\string.asm"
+call ..\..\..\..\..\etc\move string.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\string.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\string.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\fileandpathstring.asm"
+call ..\..\..\..\..\etc\move fileandpathstring.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileandpathstring.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileandpathstring.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\getdevval.asm"
+call ..\..\..\..\..\etc\move getdevval.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getdevval.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getdevval.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\getbasedev.asm"
+call ..\..\..\..\..\etc\move getbasedev.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getbasedev.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getbasedev.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\y_memory\fatdef_y.asm"
+call ..\..\..\..\..\etc\move fatdef_y.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fatdef_y.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fatdef_y.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\x_memory\databuffer_x.asm"
+call ..\..\..\..\..\etc\move databuffer_x.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\databuffer_x.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\databuffer_x.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\x_memory\dir_x.asm"
+call ..\..\..\..\..\etc\move dir_x.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dir_x.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dir_x.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\x_memory\search_x.asm"
+call ..\..\..\..\..\etc\move search_x.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\search_x.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\search_x.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\media\y_memory\mtdef_y.asm"
+call ..\..\..\..\..\etc\move mtdef_y.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mtdef_y.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mtdef_y.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\media\y_memory\devicedef_y.asm"
+call ..\..\..\..\..\etc\move devicedef_y.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\devicedef_y.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\devicedef_y.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\y_memory\dir_y.asm"
+call ..\..\..\..\..\etc\move dir_y.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\dir_y.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\dir_y.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\y_memory\search_y.asm"
+call ..\..\..\..\..\etc\move search_y.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\search_y.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\search_y.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\x_memory\fatdef_x.asm"
+call ..\..\..\..\..\etc\move fatdef_x.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fatdef_x.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fatdef_x.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\y_memory\hndldef_y.asm"
+call ..\..\..\..\..\etc\move hndldef_y.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\hndldef_y.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\hndldef_y.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\init.asm"
+call ..\..\..\..\..\etc\move init.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\init.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\init.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\mediamapper.asm"
+call ..\..\..\..\..\etc\move mediamapper.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\mediamapper.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\mediamapper.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\stream\asm\streamwordcopy.asm"
+call ..\..\..\..\..\etc\move streamwordcopy.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\streamwordcopy.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\streamwordcopy.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\stream\asm\streambytecopy.asm"
+call ..\..\..\..\..\etc\move streambytecopy.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\streambytecopy.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\streambytecopy.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\stream\asm\getbytefromstream.asm"
+call ..\..\..\..\..\etc\move getbytefromstream.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getbytefromstream.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getbytefromstream.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\stream\asm\getwordfromstream.asm"
+call ..\..\..\..\..\etc\move getwordfromstream.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\getwordfromstream.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\getwordfromstream.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\media\asm\media.asm"
+call ..\..\..\..\..\etc\move media.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\media.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\media.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\cxtosect.asm"
+call ..\..\..\..\..\etc\move cxtosect.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\cxtosect.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\cxtosect.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\handlemacro.asm"
+call ..\..\..\..\..\etc\move handlemacro.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\handlemacro.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\handlemacro.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\macro.asm"
+call ..\..\..\..\..\etc\move macro.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\macro.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\macro.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\fat.asm"
+call ..\..\..\..\..\etc\move fat.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fat.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fat.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\cluster.asm"
+call ..\..\..\..\..\etc\move cluster.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\cluster.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\cluster.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\chain.asm"
+call ..\..\..\..\..\etc\move chain.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\chain.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\chain.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\handle.asm"
+call ..\..\..\..\..\etc\move handle.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\handle.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\handle.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\readbuffer.asm"
+call ..\..\..\..\..\etc\move readbuffer.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\readbuffer.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\readbuffer.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcb.asm"
+call ..\..\..\..\..\etc\move fcb.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fcb.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fcb.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\readdirrecord.asm"
+call ..\..\..\..\..\etc\move readdirrecord.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\readdirrecord.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\readdirrecord.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\cachedirsector.asm"
+call ..\..\..\..\..\etc\move cachedirsector.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\cachedirsector.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\cachedirsector.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\filesystemsetdirectory.asm"
+call ..\..\..\..\..\etc\move filesystemsetdirectory.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\filesystemsetdirectory.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\filesystemsetdirectory.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\searchdirectory.asm"
+call ..\..\..\..\..\etc\move searchdirectory.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\searchdirectory.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\searchdirectory.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\changedirectory.asm"
+call ..\..\..\..\..\etc\move changedirectory.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\changedirectory.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\changedirectory.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\path.asm"
+call ..\..\..\..\..\etc\move path.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\path.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\path.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\savefcb.asm"
+call ..\..\..\..\..\etc\move savefcb.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\savefcb.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\savefcb.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\restorefcb.asm"
+call ..\..\..\..\..\etc\move restorefcb.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\restorefcb.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\restorefcb.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbgetfields.asm"
+call ..\..\..\..\..\etc\move fcbgetfields.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fcbgetfields.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fcbgetfields.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbsetfields.asm"
+call ..\..\..\..\..\etc\move fcbsetfields.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fcbsetfields.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fcbsetfields.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbpopulate.asm"
+call ..\..\..\..\..\etc\move fcbpopulate.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fcbpopulate.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fcbpopulate.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbstoretodir.asm"
+call ..\..\..\..\..\etc\move fcbstoretodir.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fcbstoretodir.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fcbstoretodir.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileseek.asm"
+call ..\..\..\..\..\etc\move fileseek.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileseek.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileseek.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileread.asm"
+call ..\..\..\..\..\etc\move fileread.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileread.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileread.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileeof.asm"
+call ..\..\..\..\..\etc\move fileeof.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileeof.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileeof.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fsutils.asm"
+call ..\..\..\..\..\etc\move fsutils.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fsutils.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fsutils.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileopen.asm"
+call ..\..\..\..\..\etc\move fileopen.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileopen.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileopen.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileclose.asm"
+call ..\..\..\..\..\etc\move fileclose.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileclose.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileclose.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\y_memory\fcb_y.asm"
+call ..\..\..\..\..\etc\move fcb_y.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fcb_y.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fcb_y.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\updatefilesystem.asm"
+call ..\..\..\..\..\etc\move updatefilesystem.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\updatefilesystem.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\updatefilesystem.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\writebuffer.asm"
+call ..\..\..\..\..\etc\move writebuffer.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\writebuffer.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\writebuffer.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\createdir.asm"
+call ..\..\..\..\..\etc\move createdir.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\createdir.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\createdir.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\deletedir.asm"
+call ..\..\..\..\..\etc\move deletedir.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\deletedir.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\deletedir.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\filedelete.asm"
+call ..\..\..\..\..\etc\move filedelete.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\filedelete.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\filedelete.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\filerename.asm"
+call ..\..\..\..\..\etc\move filerename.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\filerename.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\filerename.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\filewrite.asm"
+call ..\..\..\..\..\etc\move filewrite.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\filewrite.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\filewrite.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileappend.asm"
+call ..\..\..\..\..\etc\move fileappend.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileappend.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileappend.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileattribute.asm"
+call ..\..\..\..\..\etc\move fileattribute.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileattribute.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileattribute.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileattributeclear.asm"
+call ..\..\..\..\..\etc\move fileattributeclear.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileattributeclear.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileattributeclear.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\filecreate.asm"
+call ..\..\..\..\..\etc\move filecreate.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\filecreate.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\filecreate.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\diraddcluster.asm"
+call ..\..\..\..\..\etc\move diraddcluster.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\diraddcluster.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\diraddcluster.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\direrasecluster.asm"
+call ..\..\..\..\..\etc\move direrasecluster.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\direrasecluster.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\direrasecluster.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbnew.asm"
+call ..\..\..\..\..\etc\move fcbnew.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fcbnew.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fcbnew.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileclose_write.asm"
+call ..\..\..\..\..\etc\move fileclose_write.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fileclose_write.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fileclose_write.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\chaindelete.asm"
+call ..\..\..\..\..\etc\move chaindelete.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\chaindelete.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\chaindelete.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcballocate.asm"
+call ..\..\..\..\..\etc\move fcballocate.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fcballocate.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fcballocate.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\cluster_write.asm"
+call ..\..\..\..\..\etc\move cluster_write.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\cluster_write.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\cluster_write.lst [ok]
+
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\fat_write.asm"
+call ..\..\..\..\..\etc\move fat_write.lst ..\output_3410\lst
+D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\MAKE\fat_write.lst => D:\PROJ\PAGER\TEMP\PROJECTS\CREATIVE\PAGER\PLAYER\OUTPUT_3410\lst\fat_write.lst [ok]
+
+Creating IEEE archive library file for FAT12 File System "..\..\..\..\..\lib\fat12lib.a"
+ar2410 -r ..\..\..\..\..\lib\fat12lib.a 
+"..\output_3410\obj\STRING_X.OBJ"    
+"..\output_3410\obj\VAR_y.OBJ"    
+"..\output_3410\obj\Word.OBJ"    
+"..\output_3410\obj\divide.OBJ"    
+"..\output_3410\obj\modulo.OBJ"    
+"..\output_3410\obj\Math32.OBJ"    
+"..\output_3410\obj\Chrono.OBJ"    
+"..\output_3410\obj\GetWordByte.OBJ"    
+"..\output_3410\obj\WORDputbyte.OBJ"    
+"..\output_3410\obj\Pointer.OBJ"    
+"..\output_3410\obj\string.OBJ"    
+"..\output_3410\obj\FileAndPathString.OBJ"    
+"..\output_3410\obj\GetDevVal.OBJ"    
+"..\output_3410\obj\GetBaseDev.OBJ" 
+"..\output_3410\obj\fatdef_y.obj"          
+"..\output_3410\obj\DataBuffer_x.obj"      
+"..\output_3410\obj\DIR_X.obj"    
+"..\output_3410\obj\Search_X.obj"    
+"..\output_3410\obj\mtdef_y.obj"    
+"..\output_3410\obj\devicedef_y.obj"    
+"..\output_3410\obj\dir_y.obj"          
+"..\output_3410\obj\search_y.obj"       
+"..\output_3410\obj\fatdef_x.obj"         
+"..\output_3410\obj\hndldef_y.obj"        
+"..\output_3410\obj\Init.obj"          
+"..\output_3410\obj\MediaMapper.obj"          
+"..\output_3410\obj\STREAMwordcopy.obj"        
+"..\output_3410\obj\STREAMbytecopy.obj"        
+"..\output_3410\obj\GetByteFromStream.obj"      
+"..\output_3410\obj\GetWordFromStream.obj"      
+"..\output_3410\obj\Media.obj"            
+"..\output_3410\obj\CXtoSect.obj"          
+"..\output_3410\obj\handlemacro.obj"             
+"..\output_3410\obj\macro.obj"             
+"..\output_3410\obj\fat.obj"               
+"..\output_3410\obj\cluster.obj"           
+"..\output_3410\obj\chain.obj"             
+"..\output_3410\obj\handle.obj"            
+"..\output_3410\obj\ReadBuffer.obj"        
+"..\output_3410\obj\fcb.obj"               
+"..\output_3410\obj\ReadDIRRecord.obj"       
+"..\output_3410\obj\CacheDIRSector.obj"      
+"..\output_3410\obj\FileSystemSetDirectory.obj"     
+"..\output_3410\obj\SearchDirectory.obj"         
+"..\output_3410\obj\ChangeDirectory.obj"      
+"..\output_3410\obj\Path.obj"                 
+"..\output_3410\obj\SaveFCB.obj"             
+"..\output_3410\obj\RestoreFCB.obj"           
+"..\output_3410\obj\FCBGetFields.obj"         
+"..\output_3410\obj\FCBSetFields.obj"         
+"..\output_3410\obj\FCBPopulate.obj"          
+"..\output_3410\obj\FCBStoreToDir.obj"            
+"..\output_3410\obj\fileseek.obj"             
+"..\output_3410\obj\fileread.obj"             
+"..\output_3410\obj\fileeof.obj"              
+"..\output_3410\obj\fsutils.obj"              
+"..\output_3410\obj\fileopen.obj"             
+"..\output_3410\obj\fileclose.obj"            
+"..\output_3410\obj\fcb_y.obj"                
+"..\output_3410\obj\updatefilesystem.obj" 
+"..\output_3410\obj\WRITEbuffer.obj"     
+"..\output_3410\obj\CreateDIR.obj"     
+"..\output_3410\obj\DeleteDIR.obj"     
+"..\output_3410\obj\FileDelete.obj"     
+"..\output_3410\obj\FileRename.obj"     
+"..\output_3410\obj\FileWrite.obj"     
+"..\output_3410\obj\FileAppend.obj"     
+"..\output_3410\obj\FileAttribute.obj"     
+"..\output_3410\obj\FileAttributeClear.obj"     
+"..\output_3410\obj\FileCreate.obj"     
+"..\output_3410\obj\DIRAddCluster.obj"     
+"..\output_3410\obj\DIREraseCluster.obj"     
+"..\output_3410\obj\FCBNew.obj"     
+"..\output_3410\obj\FileClose_Write.obj"     
+"..\output_3410\obj\chaindelete.obj"     
+"..\output_3410\obj\fcballocate.obj"     
+"..\output_3410\obj\cluster_write.obj"     
+"..\output_3410\obj\fat_write.obj"
+
+
+
+Linking player.out
+lk2410 -o "..\output_3410\player.out" 
+-L..\..\..\..\..\lib                           
+-L..\..\..\..\..\System\MsgModules\Software\decoder\mp3\tasking                   
+-L..\..\..\..\..\System\MsgModules\Software\decoder\wma\tasking                   
+-Lc:\2410\lib\2410            
+-w8                                      
+..\output_3410\obj\softtimers.obj 
+..\output_3410\obj\geq_overlay.obj 
+..\output_3410\obj\mainmenu.obj 
+..\output_3410\obj\display.obj 
+..\output_3410\obj\playerstatemachine.obj 
+..\output_3410\obj\led.obj 
+..\output_3410\obj\ledtable.obj 
+..\output_3410\obj\checkremovablemedia.obj 
+..\output_3410\obj\main.obj 
+..\output_3410\obj\msgs.obj 
+..\output_3410\obj\sysbrownout.obj 
+..\output_3410\obj\sysheadphoneshort.obj 
+..\output_3410\obj\modulemsg.obj 
+..\output_3410\obj\mediamap.obj 
+..\output_3410\obj\sysheadphones.obj 
+..\output_3410\obj\syshwinit.obj 
+..\output_3410\obj\geq.obj 
+..\output_3410\obj\geqmem.obj 
+..\output_3410\obj\dec_adpcm_nonoverlay.obj 
+..\output_3410\obj\dec_adpcm_overlay.obj 
+..\output_3410\obj\dec_adpcm_mem.obj 
+..\output_3410\obj\mp3dec.obj 
+..\output_3410\obj\mp3mem.obj 
+..\output_3410\obj\decoder_nonoverlay.obj 
+..\output_3410\obj\decoder_overlay.obj 
+..\output_3410\obj\decodermem.obj 
+..\output_3410\obj\wmadec.obj 
+..\output_3410\obj\wmamem.obj 
+..\output_3410\obj\wmagetdata.obj 
+..\output_3410\obj\wma_decoder_nonoverlay.obj 
+..\output_3410\obj\wma_decoder_overlay.obj 
+..\output_3410\obj\wma_decodermem.obj 
+..\output_3410\obj\const.obj 
+..\output_3410\obj\mixer.obj 
+..\output_3410\obj\sysvoice.obj 
+..\output_3410\obj\sysdir.obj 
+..\output_3410\obj\systemapi.obj 
+..\output_3410\obj\sysresource_nand_dd.obj 
+..\output_3410\obj\parser.obj 
+..\output_3410\obj\parser_voice.obj 
+..\output_3410\obj\parsermem.obj 
+..\output_3410\obj\sysusb.obj "
+..\output_3410\obj\mediadetection.obj" 
+..\output_3410\obj\syswaitonevent.obj 
+..\output_3410\obj\userkernel.obj 
+..\output_3410\obj\syscallfunction.obj 
+..\output_3410\obj\sysmem.obj 
+..\output_3410\obj\sysmisc.obj 
+..\output_3410\obj\syscoder.obj 
+..\output_3410\obj\sysspeed.obj 
+..\output_3410\obj\systime.obj 
+..\output_3410\obj\sysirq.obj 
+..\output_3410\obj\syserror.obj 
+..\output_3410\obj\systimers.obj 
+..\output_3410\obj\sysmodule.obj 
+..\output_3410\obj\bufdesc.obj 
+..\output_3410\obj\stack.obj 
+..\output_3410\obj\stackmem.obj 
+..\output_3410\obj\syspostmsg.obj 
+..\output_3410\obj\sysresource_light_fs.obj 
+..\output_3410\obj\dacdrv.obj 
+..\output_3410\obj\dacisr.obj 
+..\output_3410\obj\copybuffer.obj 
+..\output_3410\obj\dacmemy.obj 
+..\output_3410\obj\copybufmem.obj 
+..\output_3410\obj\daccoefs.obj 
+..\output_3410\obj\dacmem.obj 
+..\output_3410\obj\fgndexec.obj 
+..\output_3410\obj\moduletable.obj 
+..\output_3410\obj\syssettings.obj 
+..\output_3410\obj\button.obj 
+..\output_3410\obj\lowresolutionadc.obj 
+..\output_3410\obj\battery.obj 
+..\output_3410\obj\miscproject.obj "
+..\output_3410\obj\flashreadpagerdntareasync.obj" "
+..\output_3410\obj\mdtutils.obj" "
+..\output_3410\obj\packutils.obj" "
+..\output_3410\obj\getpagerdntarea.obj" "
+..\output_3410\obj\getsmstatus.obj" "
+..\output_3410\obj\halutils.obj" "
+..\output_3410\obj\smartmediadetection.obj" 
+..\output_3410\obj\sysserialnumber.obj "
+..\output_3410\obj\smartmediaserialnumber.obj" "
+..\output_3410\obj\smddheader.obj" "
+..\output_3410\obj\flasheraserawblock.obj" "
+..\output_3410\obj\flashwritepagerdntareasync.obj" "
+..\output_3410\obj\markbadblk.obj" "
+..\output_3410\obj\copyutils.obj" "
+..\output_3410\obj\flashwriterawpagesync.obj" "
+..\output_3410\obj\flashrelocateblock.obj" "
+..\output_3410\obj\flashwritepagesync.obj" "
+..\output_3410\obj\flashwritepageseq.obj" "
+..\output_3410\obj\zonemaputils_write.obj" "
+..\output_3410\obj\putpagesync.obj" "
+..\output_3410\obj\putpagerdntarea.obj" "
+..\output_3410\obj\eraseblock.obj" "
+..\output_3410\obj\flashwritesectorsync.obj" "
+..\output_3410\obj\eccutils.obj" "
+..\output_3410\obj\ecctable.obj" "
+..\output_3410\obj\buffer.obj" "
+..\output_3410\obj\mdtable.obj" "
+..\output_3410\obj\cisidi.obj" "
+..\output_3410\obj\log2phytable.obj" "
+..\output_3410\obj\streamutils.obj" "
+..\output_3410\obj\flashreadfirstgoodpagesync.obj" "
+..\output_3410\obj\validatemedia.obj" "
+..\output_3410\obj\processpt.obj" "
+..\output_3410\obj\processid.obj" "
+..\output_3410\obj\devinstalled.obj" "
+..\output_3410\obj\makezonemap.obj" "
+..\output_3410\obj\log2phyutils.obj" "
+..\output_3410\obj\rdntareautils.obj" "
+..\output_3410\obj\zonemaputils.obj" "
+..\output_3410\obj\datautils.obj" "
+..\output_3410\obj\datautils_write.obj" "
+..\output_3410\obj\errorutils.obj" "
+..\output_3410\obj\flashreadpagesync.obj" "
+..\output_3410\obj\flashreadrawpagesync.obj" "
+..\output_3410\obj\flashreadsector.obj" "
+..\output_3410\obj\flashgetserialnumber.obj" "
+..\output_3410\obj\flashreadsectorsync.obj" "
+..\output_3410\obj\sec2logutils.obj" "
+..\output_3410\obj\flashdriverinit.obj" "
+..\output_3410\obj\queryutils.obj" "
+..\output_3410\obj\getpagesync.obj" "
+..\output_3410\obj\getsmid.obj" "
+..\output_3410\obj\resetmedia.obj" "
+..\output_3410\obj\flashreadfatsectorsync.obj" 
+..\output_3410\obj\sysfunclet.obj 
+c:\c2410\lib\2410\librt.a 
+"..\..\..\..\..\lib\fat12lib.a" 
+..\..\..\..\..\algorithms\decoders\mp3\lib\coremp3_novoltone.a 
+..\..\..\..\..\algorithms\decoders\mp3\lib\bit_lib.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\wmalib.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\drmpdlib.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\libcr.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\libfp.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\librt.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\wmalib.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\drmpdlib.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\libcr.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\libfp.a 
+..\..\..\..\..\algorithms\decoders\wma\lib\librt.a
+
+Creating IEEE-695 absolute file 
+..\output_3410\player.abs
+lc2410 -o ..\output_3410\player.abs -f1 -c -M -w8  -dstmpmp3.dsc ..\output_3410\player.out
+
+Extract Led Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M..\output_3410\rsrc\ledmod.src=LEDMOD_Led_overlay_p -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\ledmod.src from [LEDMOD_Led_overlay_p].
+Module  Extracted:  ..\output_3410\rsrc\ledmod.src
+             size:  433(dec)
+            start:  0xA4F0
+             stop:  0xA6A0
+
+Extract Soft Timer Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M..\output_3410\rsrc\softtimermod.src=.ptextsofttimers,SoftTimers_ID_p -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\softtimermod.src from [.ptextsofttimers], [SoftTimers_ID_p].
+Module  Extracted:  ..\output_3410\rsrc\softtimermod.src
+             size:  367(dec)
+            start:  0xA4F0
+             stop:  0xA65E
+
+Extract Geq Overlay Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M..\output_3410\rsrc\geqoverlay.src=GeqOverlay_overlay_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\geqoverlay.src from [GeqOverlay_overlay_P].
+Module  Extracted:  ..\output_3410\rsrc\geqoverlay.src
+             size:  604(dec)
+            start:  0xA4F0
+             stop:  0xA74B
+
+Extract Menus
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs -Lmenus.loc -F..\output_3410\player.map -P..\output_3410\rsrc
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\mainmenu.src             from [MenuManager_p], [.ptextmainmenu], [MainMenu_ID_p].
+Module  Extracted:  mainmenu.src            
+             size:  1177(dec)
+            start:  0xA4F0
+             stop:  0xA988
+
+Creating ..\output_3410\rsrc\playerstatemachine.src   from [MenuManager_p], [.ptextplayerstatemachine], [PlayerStateMachine_ID_p].
+Module  Extracted:  playerstatemachine.src  
+             size:  1153(dec)
+            start:  0xA4F0
+             stop:  0xA970
+
+Creating ..\output_3410\rsrc\display.src              from [MenuManager_p], [.ptextdisplay], [Display_ID_p].
+Module  Extracted:  display.src             
+             size:  1006(dec)
+            start:  0xA4F0
+             stop:  0xA8DD
+
+Extract WriteFAT12 P
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\fatwritep.src"=WriteFAT12_p -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\fatwritep.src from [WriteFAT12_p].
+Module  Extracted:  ..\output_3410\rsrc\fatwritep.src
+             size:  3583(dec)
+            start:  0x0080
+             stop:  0x0E7E
+             
+Extract WriteFAT12 X
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\fatwritex.src"=WriteFAT12_x -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\fatwritex.src from [WriteFAT12_x].
+Module  Extracted:  ..\output_3410\rsrc\fatwritex.src
+             size:  173(dec)
+            start:  0x0000
+             stop:  0x00AC
+
+Extract WriteFAT12 Y
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\fatwritey.src"=WriteFAT12_y -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\fatwritey.src from [WriteFAT12_y].
+Module  Extracted:  ..\output_3410\rsrc\fatwritey.src
+             size:  17(dec)
+            start:  0x1000
+             stop:  0x1010
+
+Extract ADPCM Decoder Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\decadpcmimamod.src"=DECMOD_AdpcmIma_overlay_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\decadpcmimamod.src from [DECMOD_AdpcmIma_overlay_P].
+Module  Extracted:  ..\output_3410\rsrc\decadpcmimamod.src
+             size:  1382(dec)
+            start:  0xA4F0
+             stop:  0xAA55
+
+Extract ADPCM Dec P
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\dec_adpcmp.src"=DECAPP_DecAdpcmImaNonOverlay_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\dec_adpcmp.src from [DECAPP_DecAdpcmImaNonOverlay_P].
+Module  Extracted:  ..\output_3410\rsrc\dec_adpcmp.src
+             size:  781(dec)
+            start:  0x0080
+             stop:  0x038C
+
+"Extract ADPCM Dec X & ADPCM Dec Y"
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -L..\..\..\..\..\etc\adpcmdec_abs_rsrc.loc -F..\output_3410\player.map -P..\output_3410\rsrc
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\dec_adpcmx.src from [DECAPP_DecAdpcmMem_X], [DECAPP_DecAdpcmMem_mod_X].
+Module  Extracted:  dec_adpcmx.src
+             size:  1024(dec)
+            start:  0x0000
+             stop:  0x03FF
+             gaps:  405(dec)
+
+Creating ..\output_3410\rsrc\dec_adpcmy.src from [DECAPP_DecAdpcmMem_Y], [DECAPP_DecAdpcmMem_mod_Y].
+Module  Extracted:  dec_adpcmy.src
+             size:  2079(dec)
+            start:  0x1000
+             stop:  0x181E
+
+Extract Decoder Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\decmod.src"=DECMOD_DecoderOverlay_overlay_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\decmod.src from [DECMOD_DecoderOverlay_overlay_P].
+Module  Extracted:  ..\output_3410\rsrc\decmod.src
+             size:  1276(dec)
+            start:  0xA4F0
+             stop:  0xA9EB
+
+"Extract Decoder P & X & Y"
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  
+-L..\..\..\..\..\etc\mp3_abs_rsrc.loc 
+-F..\output_3410\player.map 
+-P..\output_3410\rsrc
+
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\mp3x.src from DECAPP_Mp3DecoderMem_X, [.xerr_func], [.xWorkBuffer], [.xconfig], [.xtools], [.xcrc_mpeg], [.xFMP3_HostFuncTable], [.xrecfdom], [.xmata], [.xfreqidx], [.xBitrate_MPEG1], [.xBitrate_MPEG2], [.xBitrate_MPEG25], [.xFReset_to_zero], [.xexp2infc], [.xanc_data_x], [.xl3_core], [.xchanctl], [.xinvquant], [.xl_huffdec], [.xasm_wrap_x], [.xinvstero], [.xFMP3_HostParmTable], [.xdeemph], [.xl3_head], [.xmtabs], [.xinvmdctl], [.xdec_l3], [.xscalefac], [xOVLN], [.xsfbwidth], [.xipolypha], [.xhct__std], [.xCopyB2B_asm], [DECAPP_Mp3DecoderMem_2_X], [DECAPP_Mp3WrapperMem_X], [DECAPP_DecoderMem_X].
+Module  Extracted:  mp3x.src
+             size:  6890(dec)
+            start:  0x0000
+             stop:  0x1AE9
+             gaps:  1857(dec)
+
+Creating ..\output_3410\rsrc\mp3y.src from [.yinvmdctl], [DECAPP_Mp3DecoderMem_mod_Y], [.yiploypha], [.yihybrid], [.yx43tab], [.ychanctl], [yOVLN], [.yinvmdctl_2], [DECAPP_Mp3DecoderMem_Y], [DECAPP_DecoderMem_Y].
+Module  Extracted:  mp3y.src
+             size:  4549(dec)
+            start:  0x1000
+             stop:  0x21C4
+             gaps:  1959(dec)
+
+Creating ..\output_3410\rsrc\mp3p.src from [.pnear_huffdec], [.pnear_huffdec2], [.ph_recfdom], [.pdivmod], [.pdivunint], [.pupdptr], [.perr_func], [.pdiv_sig], [.pasmwrap], [.pbttrfly], [.pconfig], [.pexp2infc], [.pdescalyy], [.pfreqidx], [.pcrc_mpeg], [.phuffdec2], [.pdeemph], [.ptools], [.pchanctl], [.psfbwidth], [.pinvquant], [.panc_data], [.pihybrid], [.pset_ssl], [.pinvstero], [.pscalefac], [.pl3_core], [.phuffdec], [.pl3_sync], [.pdec_l3], [.precfdom], [.pinvmdctl], [.pipolypha], [.pl3_head], [.pmext], [.pPTROFBSS_C], [.pRegisterBitPtr2BitNr], [.pPTROFBSS_asm], [.pBIT_DIS_asm], [.pskip_bit_asm], [.pDIV_24_C], [.pBSS2RegisterBitPtr], [.prd_f_bit_asm], [.prd_v_bit_asm], [.pwr_v_bit_asm], [.pCopyB2B_asm], [DECAPP_DecoderNonOverlay_P], [DECAPP_Mp3Dec_P].
+Module  Extracted:  mp3p.src
+             size:  8378(dec)
+            start:  0x0080
+             stop:  0x2139
+
+Creating IEEE-695 absolute file ..\output_3410\playerwma.abs
+lc2410 -o ..\output_3410\playerwma.abs -f1 -c -M -w8  -dstmpwma.dsc ..\output_3410\player.out
+
+"Extract WMA Decoder Sections"
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\playerwma.abs  -L..\..\..\..\..\etc\wma_sect_rsrc.loc -F..\output_3410\playerWMA.map -P..\output_3410\rsrc
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\wmainit.src from [.pInit].
+Module  Extracted:  wmainit.src
+             size:  3150(dec)
+            start:  0x4A33
+             stop:  0x5680
+
+Creating ..\output_3410\rsrc\wmaCommon.src from [DECMODWMA_DecoderNonOverlay_P], [.pwext], [.pCommon].
+Module  Extracted:  wmaCommon.src
+             size:  18867(dec)
+            start:  0x0080
+             stop:  0x4A32
+
+Creating ..\output_3410\rsrc\wmaCore.src from [.pCore].
+Module  Extracted:  wmaCore.src
+             size:  4210(dec)
+            start:  0x4A33
+             stop:  0x5AA4
+           
+Creating ..\output_3410\rsrc\wmaHigh.src from [.pHigh].
+Module  Extracted:  wmaHigh.src
+             size:  654(dec)
+            start:  0x5E67
+             stop:  0x60F4
+Creating ..\output_3410\rsrc\wmaMid.src from [.pMid].
+Module  Extracted:  wmaMid.src
+             size:  837(dec)
+            start:  0x5E67
+             stop:  0x61AB
+Creating ..\output_3410\rsrc\wmaHighMid.src from [.pHighMid].
+Module  Extracted:  wmaHighMid.src
+             size:  36(dec)
+            start:  0x5E43
+             stop:  0x5E66
+Creating ..\output_3410\rsrc\wmaLow.src from [.pLow].
+Module  Extracted:  wmaLow.src
+             size:  2090(dec)
+            start:  0x5E43
+             stop:  0x666C
+Creating ..\output_3410\rsrc\wmaMidLow.src from [.pMidLow].
+Module  Extracted:  wmaMidLow.src
+             size:  926(dec)
+            start:  0x5AA5
+             stop:  0x5E42
+Creating ..\output_3410\rsrc\wmaHuff16Ob.src from [.huff16Ob].
+Module  Extracted:  wmaHuff16Ob.src
+             size:  1148(dec)
+            start:  0x210F
+             stop:  0x258A
+Creating ..\output_3410\rsrc\wmaHuff44Ob.src from [.huff44Ob].
+Module  Extracted:  wmaHuff44Ob.src
+             size:  3233(dec)
+            start:  0x210F
+             stop:  0x2DAF
+Creating ..\output_3410\rsrc\wmaHuff44Qb.src from [.huff44Qb].
+Module  Extracted:  wmaHuff44Qb.src
+             size:  1566(dec)
+            start:  0x210F
+             stop:  0x272C
+Creating ..\output_3410\rsrc\wmaWrap.src from [DECWMAMOD_DecoderOverlay_overlay_P], [.wmadecinit].
+Module  Extracted:  wmaWrap.src
+             size:  1549(dec)
+            start:  0xA4F0
+             stop:  0xAAFC
+Creating ..\output_3410\rsrc\wmaX1mem.src from [WmaDecoderMem_X], [.drmdata], [.rgcValidBarkBand], [.rgiMaskQ], [.rgiBarkIndexOrig], [.Midrate], [WMA_X_mem], [.data], [DECWMAMOD_DecoderMem_X], [.xconst], [.licdata], [.OtherInputData], [.xdatawmafilelicenseinit], [.xwata].
+Module  Extracted:  wmaX1mem.src
+             size:  6448(dec)
+            start:  0x2200
+             stop:  0x3B2F
+             gaps:  3484(dec)
+Creating ..\output_3410\rsrc\wmaYmem.src from [WMA_Y_mem], [.piPrevOutput], [WmaDecoderMem_Y], [.WMA_ParsePayloadHeader], [.stackdata], [.ydata], [.yovl], [.WMA_LoadAudioObject], [.ybuf], [.sincosdata], [DECWMAMOD_DecoderMem_Y], [.InBuf], [.MaskTable], [.prvGetBandWeightLowRate], [.NoiseSubTables].
+Module  Extracted:  wmaYmem.src
+             size:  4367(dec)
+            start:  0x1000
+             stop:  0x210E
+             gaps:  3234(dec)
+
+"Extract WMA Decoder Clusters"
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\playerwma.abs  -C"..\output_3410\rsrc\wmalxmem.src"=L_TablesX
+ExtractCluster:  Version 2.1 
+Cluster Extracted:  L_TablesX
+             size:  205(dec)
+            start:  0x3C00
+             stop:  0x3CCC
+ExtractCluster:  Finished Extracting Module.
+
+"Extract WMA Decoder Clusters"
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\playerwma.abs  -C"..\output_3410\rsrc\wmalymem.src"=L_TablesY
+ExtractCluster:  Version 2.1 
+Cluster Extracted:  L_TablesY
+             size:  205(dec)
+            start:  0x3C00
+             stop:  0x3CCC
+ExtractCluster:  Finished Extracting Module.
+
+Extract Parser Voise Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\parvoimod.src"=PARVOIMOD_Parser_overlay_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\parvoimod.src from [PARVOIMOD_Parser_overlay_P].
+Module  Extracted:  ..\output_3410\rsrc\parvoimod.src
+             size:  1252(dec)
+            start:  0xA4F0
+             stop:  0xA9D3
+
+Extract Parser Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\parmod.src"=PARMOD_Parser_overlay_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\parmod.src from [PARMOD_Parser_overlay_P].
+Module  Extracted:  ..\output_3410\rsrc\parmod.src
+             size:  1716(dec)
+            start:  0xA4F0
+             stop:  0xABA3
+
+Extract Mixer Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\mixmod.src"=MIXMOD_Mixer_overlay_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\mixmod.src from [MIXMOD_Mixer_overlay_P].
+Module  Extracted:  ..\output_3410\rsrc\mixmod.src
+             size:  708(dec)
+            start:  0xA4F0
+             stop:  0xA7B3
+
+Extract Init Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\init.src"=SYSAPP_SysSettings_Init_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\init.src from [SYSAPP_SysSettings_Init_P].
+Module  Extracted:  ..\output_3410\rsrc\init.src
+             size:  102(dec)
+            start:  0x12FD
+             stop:  0x1362
+
+Extract Shutdown Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\shutdown.src"=SYSAPP_SysSettings_Shutdown_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\shutdown.src from [SYSAPP_SysSettings_Shutdown_P].
+Module  Extracted:  ..\output_3410\rsrc\shutdown.src
+             size:  187(dec)
+            start:  0x1363
+             stop:  0x141D
+
+Extract Settings Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -C"..\output_3410\rsrc\settings.src"=Settings_Y
+ExtractCluster:  Version 2.1 
+Cluster Extracted:  Settings_Y
+             size:  7(dec)
+            start:  0x6000
+             stop:  0x6006
+
+ExtractCluster:  Finished Extracting Module.
+Extract System Module
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\sysmod.src"=SYSMOD_SystemApi_overlay_P -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\sysmod.src from [SYSMOD_SystemApi_overlay_P].
+Module  Extracted:  ..\output_3410\rsrc\sysmod.src
+             size:  166(dec)
+            start:  0xA4F0
+             stop:  0xA595
+
+"Extract Directory App"
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -L..\..\..\..\..\etc\system_abs_rsrc.loc -F..\output_3410\player.map -P..\output_3410\rsrc
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\directory.src from [DIRAPP_SysDir_P], [DIRAPP_SysVoice_P].
+Module  Extracted:  directory.src
+             size:  1150(dec)
+            start:  0x0E7F
+             stop:  0x12FC
+
+Extract SMDD High
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  -M"..\output_3410\rsrc\smddhigh.src"=SMDD_Header_p,SMDD_High_p -f..\output_3410\player.map
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\smddhigh.src from SMDD_Header_p, SMDD_High_p.
+Module  Extracted:  ..\output_3410\rsrc\smddhigh.src
+             size:  4088(dec)
+            start:  0x6780
+             stop:  0x7777
+
+Creating MMCDD.SRC placeholder.
+copy /Y ..\..\..\..\..\resources\misc\null_data.src ..\output_3410\rsrc\MMCDD.src
+        1 file(s) copied
+
+Extract Funclets
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  
+-L..\..\..\..\..\etc\funclet.loc 
+-F..\output_3410\player.map 
+-P..\output_3410\rsrc
+ExtractCluster:  Version 2.1 
+Creating ..\output_3410\rsrc\Funclet_SysResetAllInt.src from [SYSFUNCLET_SysResetAllInt_P].
+Module  Extracted:  Funclet_SysResetAllInt.src
+             size:  94(dec)
+            start:  0xA1D8
+             stop:  0xA235
+Creating ..\output_3410\rsrc\Funclet_SysSetupDecVec.src from [SYSFUNCLET_SysSetupDecVec_P].
+Module  Extracted:  Funclet_SysSetupDecVec.src
+             size:  16(dec)
+            start:  0xA1D8
+             stop:  0xA1E7
+Creating ..\output_3410\rsrc\Funclet_SysSetupEncVec.src from [SYSFUNCLET_SysSetupEncVec_P].
+Module  Extracted:  Funclet_SysSetupEncVec.src
+             size:  16(dec)
+            start:  0xA1D8
+             stop:  0xA1E7
+Creating ..\output_3410\rsrc\Funclet_SysTimeInit.src from [SYSFUNCLET_SysTimeInit_P].
+Module  Extracted:  Funclet_SysTimeInit.src
+             size:  15(dec)
+            start:  0xA1D8
+             stop:  0xA1E6
+Creating ..\output_3410\rsrc\Funclet_SysSetPlayBackMode.src from [SYSFUNCLET_SysSetPlaybackMode_P].
+Module  Extracted:  Funclet_SysSetPlayBackMode.src
+             size:  26(dec)
+            start:  0xA1D8
+             stop:  0xA1F1
+Creating ..\output_3410\rsrc\Funclet_AnalogInit.src from [SYSFUNCLET_AnalogInit_P].
+Module  Extracted:  Funclet_AnalogInit.src
+             size:  47(dec)
+            start:  0xA1D8
+             stop:  0xA206
+Creating ..\output_3410\rsrc\Funclet_UsbConnected.src from [SYSFUNCLET_UsbConnected_P].
+Module  Extracted:  Funclet_UsbConnected.src
+             size:  25(dec)
+            start:  0xA1D8
+             stop:  0xA1F0
+Creating ..\output_3410\rsrc\Funclet_ButtonInit.src from [SYSFUNCLET_ButtonInit_P].
+Module  Extracted:  Funclet_ButtonInit.src
+             size:  71(dec)
+            start:  0xA1D8
+             stop:  0xA21E
+Creating ..\output_3410\rsrc\Funclet_PowerUpHeadPhones.src from [SYSFUNCLET_PowerUpHeadPhones_P].
+Module  Extracted:  Funclet_PowerUpHeadPhones.src
+             size:  213(dec)
+            start:  0xA1D8
+             stop:  0xA2AC
+Creating ..\output_3410\rsrc\Funclet_PowerDownHeadPhones.src from [SYSFUNCLET_PowerDownHeadPhones_P].
+Module  Extracted:  Funclet_PowerDownHeadPhones.src
+             size:  155(dec)
+            start:  0xA1D8
+             stop:  0xA272
+Creating ..\output_3410\rsrc\Funclet_StartProject.src from [SYSFUNCLET_StartProject_P].
+Module  Extracted:  Funclet_StartProject.src
+             size:  65(dec)
+            start:  0xA1D8
+             stop:  0xA218
+Creating ..\output_3410\rsrc\Funclet_ModuleSetTimer.src from [SYSFUNCLET_ModuleSetTimer_P].
+Module  Extracted:  Funclet_ModuleSetTimer.src
+             size:  42(dec)
+            start:  0xA1D8
+             stop:  0xA201
+Creating ..\output_3410\rsrc\Funclet_InitVoiceNumber.src from [SYSFUNCLET_InitVoiceNumber_P].
+Module  Extracted:  Funclet_InitVoiceNumber.src
+             size:  86(dec)
+            start:  0xA1D8
+             stop:  0xA22D
+Creating ..\output_3410\rsrc\Funclet_ChangeDir.src from [SYSFUNCLET_ChangeDir_P].
+Module  Extracted:  Funclet_ChangeDir.src
+             size:  157(dec)
+            start:  0xA1D8
+             stop:  0xA274
+Creating ..\output_3410\rsrc\Funclet_FatCountCx.src from [SYSFUNCLET_FatCountCx_P].
+Module  Extracted:  Funclet_FatCountCx.src
+             size:  79(dec)
+            start:  0xA1D8
+             stop:  0xA226
+Creating ..\output_3410\rsrc\Funclet_FileSysSetDir.src from [SYSFUNCLET_FileSysSetDir_P].
+Module  Extracted:  Funclet_FileSysSetDir.src
+             size:  310(dec)
+            start:  0xA1D8
+             stop:  0xA30D
+Creating ..\output_3410\rsrc\Funclet_SearchDir.src from [SYSFUNCLET_SearchDir_P].
+Module  Extracted:  Funclet_SearchDir.src
+             size:  186(dec)
+            start:  0xA1D8
+             stop:  0xA291
+Creating ..\output_3410\rsrc\Funclet_FileOpen.src from [SYSFUNCLET_FileOpen_P].
+Module  Extracted:  Funclet_FileOpen.src
+             size:  34(dec)
+            start:  0xA1D8
+             stop:  0xA1F9
+Creating ..\output_3410\rsrc\Funclet_FSOpen.src from [SYSFUNCLET_FSOpen_P].
+Module  Extracted:  Funclet_FSOpen.src
+             size:  149(dec)
+            start:  0xA1D8
+             stop:  0xA26C
+Creating ..\output_3410\rsrc\Funclet_FileClose.src from [SYSFUNCLET_FileClose_P].
+Module  Extracted:  Funclet_FileClose.src
+             size:  34(dec)
+            start:  0xA1D8
+             stop:  0xA1F9
+Creating ..\output_3410\rsrc\Funclet_HndlFree.src from [SYSFUNCLET_HndlFree_P].
+Module  Extracted:  Funclet_HndlFree.src
+             size:  86(dec)
+            start:  0xA1D8
+             stop:  0xA22D
+Creating ..\output_3410\rsrc\Funclet_MediaDetection.src from [SYSFUNCLET_MediaDetection_P].
+Module  Extracted:  Funclet_MediaDetection.src
+             size:  19(dec)
+            start:  0xA1D8
+             stop:  0xA1EA
+Creating ..\output_3410\rsrc\Funclet_SysStopDecoder.src from [SYSFUNCLET_SysStopDecoder_P].
+Module  Extracted:  Funclet_SysStopDecoder.src
+             size:  44(dec)
+            start:  0xA1D8
+             stop:  0xA203
+Creating ..\output_3410\rsrc\Funclet_SysStopEncoder.src from [SYSFUNCLET_SysStopEncoder_P].
+Module  Extracted:  Funclet_SysStopEncoder.src
+             size:  44(dec)
+            start:  0xA1D8
+             stop:  0xA203
+Creating ..\output_3410\rsrc\Funclet_SysSetDecoder.src from [SYSFUNCLET_SysSetDecoder_P].
+Module  Extracted:  Funclet_SysSetDecoder.src
+             size:  26(dec)
+            start:  0xA1D8
+             stop:  0xA1F1
+Creating ..\output_3410\rsrc\Funclet_SysSetEncoder.src from [SYSFUNCLET_SysSetEncoder_P].
+Module  Extracted:  Funclet_SysSetEncoder.src
+             size:  14(dec)
+            start:  0xA1D8
+             stop:  0xA1E5
+Creating ..\output_3410\rsrc\Funclet_ProcessPT.src from [SYSFUNCLET_ProcessPT_P].
+Module  Extracted:  Funclet_ProcessPT.src
+             size:  221(dec)
+            start:  0xA1D8
+             stop:  0xA2B4
+Creating ..\output_3410\rsrc\Funclet_FileSystemPresent.src from [SYSFUNCLET_FileSystemPresent_P].
+Module  Extracted:  Funclet_FileSystemPresent.src
+             size:  62(dec)
+            start:  0xA1D8
+             stop:  0xA215
+Creating ..\output_3410\rsrc\Funclet_FileSystemType.src from [SYSFUNCLET_FileSystemType_P].
+Module  Extracted:  Funclet_FileSystemType.src
+             size:  31(dec)
+            start:  0xA1D8
+             stop:  0xA1F6
+Creating ..\output_3410\rsrc\Funclet_FileSystemIsReady.src from [SYSFUNCLET_FileSystemIsReady_P].
+Module  Extracted:  Funclet_FileSystemIsReady.src
+             size:  44(dec)
+            start:  0xA1D8
+             stop:  0xA203
+Creating ..\output_3410\rsrc\Funclet_MEDIAReadBootSector.src from [SYSFUNCLET_MEDIAReadBootSector_P].
+Module  Extracted:  Funclet_MEDIAReadBootSector.src
+             size:  178(dec)
+            start:  0xA1D8
+             stop:  0xA289
+Creating ..\output_3410\rsrc\Funclet_MEDIAUpdate.src from [SYSFUNCLET_MEDIAUpdate_P].
+Module  Extracted:  Funclet_MEDIAUpdate.src
+             size:  98(dec)
+            start:  0xA1D8
+             stop:  0xA239
+Creating ..\output_3410\rsrc\Funclet_FatCountCxFAT12.src from [SYSFUNCLET_FatCountCxFat12_P].
+Module  Extracted:  Funclet_FatCountCxFAT12.src
+             size:  221(dec)
+            start:  0xA1D8
+             stop:  0xA2B4
+Creating ..\output_3410\rsrc\Funclet_FatCountCxFAT16.src from [SYSFUNCLET_FatCountCxFat16_P].
+Module  Extracted:  Funclet_FatCountCxFAT16.src
+             size:  73(dec)
+            start:  0xA1D8
+             stop:  0xA220
+Creating ..\output_3410\rsrc\Funclet_ParseDataBootSector.src from [SYSFUNCLET_ParseDataBootSector_P].
+Module  Extracted:  Funclet_ParseDataBootSector.src
+             size:  192(dec)
+            start:  0xA1D8
+             stop:  0xA297
+Creating ..\output_3410\rsrc\Funclet_SysSetSpeed.src from [SYSFUNCLET_SysSetSpeed_P].
+Module  Extracted:  Funclet_SysSetSpeed.src
+             size:  158(dec)
+            start:  0xA1D8
+             stop:  0xA275
+Creating ..\output_3410\rsrc\Funclet_SysGetVolume.src from [SYSFUNCLET_SysGetVolume_P].
+Module  Extracted:  Funclet_SysGetVolume.src
+             size:  36(dec)
+            start:  0xA1D8
+             stop:  0xA1FB
+Creating ..\output_3410\rsrc\Funclet_MixerMasterFadeOut.src from [SYSFUNCLET_MixerMasterFadeOut_P].
+Module  Extracted:  Funclet_MixerMasterFadeOut.src
+             size:  44(dec)
+            start:  0xA1D8
+             stop:  0xA203
+Creating ..\output_3410\rsrc\Funclet_MixerMasterFadeIn.src from [SYSFUNCLET_MixerMasterFadeIn_P].
+Module  Extracted:  Funclet_MixerMasterFadeIn.src
+             size:  68(dec)
+            start:  0xA1D8
+             stop:  0xA21B
+
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3410\rsrc\Funclet_MmcEnumeratePhysicalDevice.src
+        1 file(s) copied
+
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3410\rsrc\Funclet_ResetDevice.src
+        1 file(s) copied
+
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3410\rsrc\Funclet_ProcessCsd.src
+        1 file(s) copied
+
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3410\rsrc\Funclet_ProcessPartition.src
+        1 file(s) copied
+
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3410\rsrc\Funclet_DoesMbrExist.src
+        1 file(s) copied
+
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3410\rsrc\Funclet_ExtractPartitionParameters.src
+        1 file(s) copied
+
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3410\rsrc\Funclet_PartitionEntryCopy.src
+        1 file(s) copied
+
+Creating ..\output_3410\resource_3410.bin
+..\..\..\..\..\bin\rsclink.EXE 
+-h..\..\..\..\..\Projects\creative\pager\Player\resource.inc 	
+-i..\..\..\..\..\Bitmaps\fonts\arial_western_6     
+-i..\..\..\..\..\Bitmaps\fonts\arial_16 	
+-i..\..\..\..\..\Bitmaps\fonts\arial_8 	
+-i..\..\..\..\..\Bitmaps\icons\status\16 	
+-i..\..\..\..\..\Bitmaps\icons\battery\8x8 	
+-i..\..\..\..\..\Bitmaps\strings\arial_8 	
+-i..\output_3410\rsrc               
+-i..\..\..\..\..\Projects\creative\pager\Player\Rsrc 	
+-o..\output_3410\resource_3410.bin     
+-v999.999
+
+ Command Parser Successfull.
+ Product   Version : 999.999
+ Component Version : 0.22
+ Resource Compiler Successfull 
+
+..\..\..\..\..\bin\resparse ..\output_3410\resource_3410.bin ..\output_3410\resource.txt
+  Product Version:  999.999
+Component Version:  0.22
+Num Resources Reported = 89
+Each table entry has a corresponding resource header at the specified File Offset.
+All resources are contiguous
+Success:  file format is valid
+
+Extract System S-rec for 3410 device family
+..\..\..\..\..\bin\extractcluster.exe ..\output_3410\player.abs  
+-S..\output_3410\stmpsys_3410.s=P_vector,P_sys_cluster,X_sys_cluster,P_Media_DD_cluster,Y_sys
+-V999.999                                                                    
+-OFFE8=1818                                                                     
+-OFFE9=1818
+ExtractCluster:  Version 2.1 
+SREC file created successfully
+Successful Build!

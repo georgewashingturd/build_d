@@ -1,0 +1,1881 @@
+******************************************* 
+**********   Rebuilding ALL     ***********   
+*******************************************
+mk2410 -a -f player.mk D_ALL=TRUE D_D3500=TRUE D_DEBUG=TRUE D_NAND2=TRUE D_DRM=TRUE D_LIBS=TRUE D_PLIBS=TRUE D_=TRUE
+Converting Header File ..\..\..\..\..\inc\3500\hwequ.inc 
+Converting Header File ..\..\..\..\..\inc\3500\regsclkctrl.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsclkctrl.inc  ..\output_3500\include\regsclkctrl.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsclkctrl.inc to ..\output_3500\include\regsclkctrl.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regscore.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regscore.inc  ..\output_3500\include\regscore.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regscore.inc to ..\output_3500\include\regscore.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regscodec.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regscodec.inc  ..\output_3500\include\regscodec.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regscodec.inc to ..\output_3500\include\regscodec.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsdcdc.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsdcdc.inc  ..\output_3500\include\regsdcdc.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsdcdc.inc to ..\output_3500\include\regsdcdc.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsemc.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsemc.inc  ..\output_3500\include\regsemc.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsemc.inc to ..\output_3500\include\regsemc.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsgpio.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsgpio.inc  ..\output_3500\include\regsgpio.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsgpio.inc to ..\output_3500\include\regsgpio.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsi2c.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsi2c.inc  ..\output_3500\include\regsi2c.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsi2c.inc to ..\output_3500\include\regsi2c.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsi2s.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsi2s.inc  ..\output_3500\include\regsi2s.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsi2s.inc to ..\output_3500\include\regsi2s.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsicoll.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsicoll.inc  ..\output_3500\include\regsicoll.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsicoll.inc to ..\output_3500\include\regsicoll.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regslradc.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regslradc.inc  ..\output_3500\include\regslradc.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regslradc.inc to ..\output_3500\include\regslradc.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsrevision.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsrevision.inc  ..\output_3500\include\regsrevision.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsrevision.inc to ..\output_3500\include\regsrevision.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsrtc.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsrtc.inc  ..\output_3500\include\regsrtc.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsrtc.inc to ..\output_3500\include\regsrtc.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regssdram.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regssdram.inc  ..\output_3500\include\regssdram.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regssdram.inc to ..\output_3500\include\regssdram.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsspare.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsspare.inc  ..\output_3500\include\regsspare.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsspare.inc to ..\output_3500\include\regsspare.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsspi.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsspi.inc  ..\output_3500\include\regsspi.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsspi.inc to ..\output_3500\include\regsspi.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsswizzle.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsswizzle.inc  ..\output_3500\include\regsswizzle.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsswizzle.inc to ..\output_3500\include\regsswizzle.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regstb.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regstb.inc  ..\output_3500\include\regstb.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regstb.inc to ..\output_3500\include\regstb.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regstimer.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regstimer.inc  ..\output_3500\include\regstimer.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regstimer.inc to ..\output_3500\include\regstimer.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsecc.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsecc.inc  ..\output_3500\include\regsecc.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsecc.inc to ..\output_3500\include\regsecc.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsgpflash.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsgpflash.inc  ..\output_3500\include\regsgpflash.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsgpflash.inc to ..\output_3500\include\regsgpflash.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsfilco.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsfilco.inc  ..\output_3500\include\regsfilco.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsfilco.inc to ..\output_3500\include\regsfilco.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regspwm.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regspwm.inc  ..\output_3500\include\regspwm.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regspwm.inc to ..\output_3500\include\regspwm.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsusb20.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsusb20.inc  ..\output_3500\include\regsusb20.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsusb20.inc to ..\output_3500\include\regsusb20.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\3500\regsusb20phy.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\regsusb20phy.inc  ..\output_3500\include\regsusb20phy.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\regsusb20phy.inc to ..\output_3500\include\regsusb20phy.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\project.inc 
+Assembling ..\main.asm
+Assembling ..\msgs.asm
+Converting Header File ..\resource.inc 
+Converting Header File ..\..\..\..\..\inc\msgequ.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\msgequ.inc  ..\output_3500\include\messages.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\msgequ.inc to ..\output_3500\include\messages.h
+IncToC.exe:   Successful completion.
+Converting Header File ..\..\..\..\..\inc\softtimers.inc 
+Compiling ..\system\changeplayset.c
+Compiling ..\system\updateautoshutdowntimer.c
+Compiling ..\display\sysdisplay.c
+Converting Header File "..\..\..\..\..\inc\sysequ.inc" 
+Compiling ..\display\displaysplashscreen.c
+Compiling ..\display\display.c
+Compiling ..\menus\mainmenu.c
+Converting Header File ..\..\..\..\..\inc\errors.inc 
+Compiling ..\menus\playerstatemachine.c
+Compiling ..\menus\musicmenu.c
+Compiling ..\menus\fmtunermenu.c
+Compiling ..\menus\voicemenu.c
+Compiling ..\menus\recorderstatemachine.c
+Compiling ..\..\..\..\..\devicedriver\analog\adc\micbias.c
+Compiling ..\display\displaylists.c
+Compiling ..\menus\contrastmenu.c
+Compiling ..\menus\eqmenu.c
+Compiling ..\menus\playmodemenu.c
+Compiling ..\menus\pwrsettingsmenu.c
+Compiling ..\menus\settingsmenu.c
+Compiling ..\menus\deletemenu.c
+Compiling ..\menus\aboutmenu.c
+Compiling ..\menus\backlightmenu.c
+Compiling ..\system\miscproject.c
+Compiling ..\menus\skipfoldermenu.c
+Compiling ..\display\displaymenu.c
+Converting Header File ..\..\..\..\..\inc\encadpcmequ.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\encadpcmequ.inc  ..\output_3500\include\encadpcmequ.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\encadpcmequ.inc to ..\output_3500\include\encadpcmequ.h
+IncToC.exe:   Successful completion.
+Compiling ..\menus\recordmenu.c
+Compiling ..\display\displayeq.c
+Compiling ..\menus\othermenu.c
+Compiling ..\menus\recordsettingsmenu.c
+Assembling ..\..\..\..\..\system\common\symbols\iolib_resource.asm
+Converting Header File ..\..\..\..\..\inc\3500\sysspeed.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\3500\sysspeed.inc  ..\output_3500\include\sysspeed.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\3500\sysspeed.inc to ..\output_3500\include\sysspeed.h
+IncToC.exe:   Successful completion.
+Compiling ..\..\..\..\..\system\common\metadata\metadata.c
+Compiling ..\..\..\..\..\system\common\metadata\mp3metadata.c
+Compiling ..\..\..\..\..\system\common\metadata\wmametadata.c
+Compiling ..\..\..\..\..\system\common\metadata\wavmetadata.c
+Compiling ..\..\..\..\..\system\common\metadata\id3v2.c
+Compiling ..\..\..\..\..\system\common\metadata\vbr.c
+Assembling ..\..\..\..\..\system\common\symbols\nandddi_resource.asm
+Compiling ..\ddiproject.c
+Converting Header File ..\..\..\..\..\inc\sysresources.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\sysresources.inc  ..\output_3500\include\sysresources.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\sysresources.inc to ..\output_3500\include\sysresources.h
+IncToC.exe:   Successful completion.
+Compiling ..\..\..\..\..\system\common\dbcs.c
+Assembling ..\..\..\..\..\system\data_management\const.asm
+Assembling ..\..\..\..\..\system\msgmodules\hardware\mixer\mixer.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\system\systemapi.asm
+Compiling ..\..\..\..\..\system\msgmodules\software\system\systemmodule.c
+Assembling ..\..\..\..\..\system\common\sysusb.asm
+Assembling ..\..\..\..\..\system\exec\c_menu_kernel\syswaitonevent.asm
+Assembling ..\..\..\..\..\system\exec\c_menu_kernel\userkernel.asm
+Assembling ..\..\..\..\..\system\exec\c_menu_kernel\syscallfunction.asm
+Assembling ..\..\..\..\..\system\common\2400_syscallfunction.asm
+Assembling ..\..\..\..\..\system\common\sysmem.asm
+Assembling ..\..\..\..\..\system\common\sysmisc.asm
+Assembling ..\..\..\..\..\system\common\syscoder.asm
+Assembling ..\..\..\..\..\system\3500\sysspeed.asm
+Assembling ..\..\..\..\..\system\common\sysirq.asm
+Assembling ..\..\..\..\..\system\common\syserror.asm
+Assembling ..\..\..\..\..\system\common\systimers.asm
+Assembling ..\..\..\..\..\system\exec\sysexecspeedclient.asm
+Assembling ..\..\..\..\..\system\common\bufdesc.asm
+Assembling ..\..\..\..\..\system\data_management\stack\stack.asm
+Assembling ..\..\..\..\..\system\common\stackmem.asm
+Assembling ..\..\..\..\..\system\fgndmodules\dacdrv.asm
+Assembling ..\..\..\..\..\system\fgndmodules\dacisr.asm
+Assembling ..\..\..\..\..\system\fgndmodules\copybuffer.asm
+Assembling ..\..\..\..\..\system\fgndmodules\dacmemy.asm
+Assembling ..\..\..\..\..\system\fgndmodules\copybufmem.asm
+Assembling ..\..\..\..\..\system\fgndmodules\daccoefs.asm
+Assembling ..\..\..\..\..\system\fgndmodules\dacmem.asm
+Assembling ..\..\..\..\..\system\fgndmodules\fgndexec.asm
+Assembling ..\..\..\..\..\system\fgndmodules\moduletable.asm
+Assembling ..\..\..\..\..\system\common\syssettings.asm
+Assembling ..\..\..\..\..\devicedriver\userinput\buttons\button.asm
+Compiling ..\..\..\..\..\system\3500\lowresolutionadc.c
+Compiling ..\..\..\..\..\system\3500\lowresolutionadcinit.c
+Compiling ..\..\..\..\..\system\common\playerlib\playerlib.c
+Compiling ..\..\..\..\..\system\3500\battery.c
+Compiling ..\..\..\..\..\system\msgmodules\software\softtimer\softtimers.c
+Assembling ..\..\..\..\..\system\msgmodules\software\effects\graphiceq\geq_overlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\effects\graphiceq\geq.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\effects\graphiceq\geqmem.asm
+Compiling ..\..\..\..\..\system\common\sysvolume.c
+Compiling ..\memorysetup.c
+Assembling ..\..\..\..\..\system\common\symbols\system_resource.asm
+Assembling ..\..\..\..\..\system\3500\syshwinit.asm
+Compiling ..\..\..\..\..\system\3500\sysheadphones.c
+Assembling ..\..\..\..\..\system\3500\sysbrownout.asm
+Assembling ..\..\..\..\..\system\3500\sysheadphoneshort.asm
+Assembling ..\..\..\..\..\system\common\symbols\serialnumber_resource.asm
+Compiling ..\system\syssettingsdat.c
+Assembling ..\..\..\..\..\system\common\symbols\fat12_resource.asm
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\x_memory\dir_x.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\y_memory\dir_y.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\x_memory\fatdef_x.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\y_memory\fatdef_y.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\x_memory\databuffer_x.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\y_memory\fcb_y.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\y_memory\hndldef_y.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\media\y_memory\devicedef_y.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\media\y_memory\mtdef_y.asm"
+Assembling ..\..\..\..\..\algorithms\common\msadpcm_mem.asm
+Assembling ..\..\..\..\..\algorithms\common\imaadpcm_mem.asm
+Compiling ..\..\..\..\..\algorithms\common\wave.c
+Assembling ..\..\..\..\..\algorithms\common\bitstreamwave.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\imaadpcm\dec_adpcm_nonoverlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\imaadpcm\dec_adpcm_overlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\imaadpcm\dec_adpcm_mem.asm
+Assembling ..\..\..\..\..\algorithms\decoders\msadpcm\src\msadpcm_decode.asm
+Assembling ..\..\..\..\..\algorithms\decoders\imaadpcm\src\imaadpcm_decode.asm
+Assembling ..\..\..\..\..\algorithms\common\pcm_decode.asm
+Compiling ..\..\..\..\..\algorithms\common\wavedec.c
+Assembling ..\..\..\..\..\algorithms\common\bitstreamdec.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\encoder\imaadpcm\enc_adpcm_nonoverlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\encoder\imaadpcm\enc_adpcm_overlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\encoder\imaadpcm\enc_adpcm_mem.asm
+Assembling ..\..\..\..\..\algorithms\encoders\imaadpcm\src\imaadpcm_encode.asm
+Assembling ..\..\..\..\..\algorithms\encoders\msadpcm\src\msadpcm_encode.asm
+Assembling ..\..\..\..\..\algorithms\common\pcm_encode.asm
+Compiling ..\..\..\..\..\algorithms\common\waveenc.c
+Converting Header File ..\..\..\..\..\inc\adpcmequ.inc 
+..\..\..\..\..\bin\inctoc.exe ..\..\..\..\..\inc\adpcmequ.inc  ..\output_3500\include\adpcmequ.h
+IncToC.exe:   Version 1.001
+IncToC.exe:   Converting ..\..\..\..\..\inc\adpcmequ.inc to ..\output_3500\include\adpcmequ.h
+IncToC.exe:   Successful completion.
+Compiling ..\..\..\..\..\system\msgmodules\software\encoder\imaadpcm\encoderproperties.c
+Assembling ..\..\..\..\..\algorithms\common\bitstreamenc.asm
+Assembling ..\..\..\..\..\algorithms\decoders\mp3\mp3dec.asm
+Assembling ..\..\..\..\..\algorithms\decoders\mp3\mp3mem.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\mp3\decoder_nonoverlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\mp3\decoder_overlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\mp3\decodermem.asm
+Assembling ..\..\..\..\..\algorithms\decoders\wma\wmadec.asm
+Assembling ..\..\..\..\..\algorithms\decoders\wma\wmamem.asm
+Assembling ..\..\..\..\..\algorithms\decoders\wma\wmagetdata.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\wma\wma_decoder_nonoverlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\wma\wma_decoder_overlay.asm
+Assembling ..\..\..\..\..\system\msgmodules\software\decoder\wma\wma_decodermem.asm
+Assembling ..\..\..\..\..\system\common\syspostmsg.asm
+Assembling ..\..\..\..\..\system\common\getmessage.asm
+Assembling ..\..\..\..\..\system\common\systime.asm
+Assembling ..\..\..\..\..\system\exec\sysmodule.asm
+Assembling ..\system\modulemsg.asm
+Compiling ..\..\..\..\..\system\msgmodules\hardware\tuner\philips5767\philips5767.c
+Compiling ..\..\..\..\..\system\msgmodules\hardware\tuner\tunermodule.c
+Compiling ..\..\..\..\..\system\common\playlist1\playlistmisc.c
+Compiling ..\..\..\..\..\system\common\playlist1\playlist1.c
+Compiling ..\..\..\..\..\system\common\playlist1\playlist1_static.c
+Compiling ..\..\..\..\..\system\common\playlist1\playlist1mem.c
+Compiling ..\..\..\..\..\system\common\lfn\longfilenames.c
+Compiling ..\..\..\..\..\system\common\record\sysrecord.c
+Compiling ..\..\..\..\..\system\msgmodules\hardware\display\displaymodule.c
+Compiling ..\..\..\..\..\system\msgmodules\hardware\display\displaydrv.c
+Compiling ..\..\..\..\..\system\msgmodules\hardware\display\unicode.c
+Compiling ..\..\..\..\..\system\msgmodules\hardware\display\font.c
+Compiling ..\..\..\..\..\system\msgmodules\hardware\display\sprintf_int.c
+Compiling ..\..\..\..\..\system\common\displaygetcontrast.c
+Compiling ..\..\devicedriver\nt7502\nt7502.c
+Compiling ..\..\..\..\..\system\msgmodules\hardware\display\sal\framebuffer\framebuffer.c
+Assembling ..\..\..\..\..\system\msgmodules\hardware\display\sal\framebuffer\asmframebuffer.asm
+Compiling ..\..\..\..\..\system\hardware\batterycharge\batterycharge.c
+Compiling ..\..\..\..\..\system\hardware\batterycharge\batterychargetask.c
+Compiling ..\..\..\..\..\system\hardware\batterycharge\liion\liion.c
+Assembling ..\..\..\..\..\system\data_management\stack\stackcheck.asm
+Creating IEEE archive library file for Stack Check ..\output_3500\obj\stackcheck.a
+Compiling ..\..\..\..\..\system\common\io\_find.c
+Assembling ..\..\..\..\..\system\common\io\getdiskfreespace.asm
+Creating IEEE archive library file for io library ..\output_3500\obj\iolib_funclets.a
+Compiling "..\..\..\..\..\system\common\resourcemanager\sysresourceapi.c"
+Compiling "..\..\..\..\..\system\common\resourcemanager\sysresource.c"
+Assembling ..\..\..\..\..\system\common\resourcemanager\sysresource_wrapper.asm
+Creating IEEE archive library file for Resource Manager ..\output_3500\obj\rsc_manager.a
+Assembling "..\..\..\..\..\filesystem\fat12\lib\x_memory\string_x.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\y_memory\var_y.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\word.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\divide.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\modulo.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\math32.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\chrono.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\wordputbyte.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\pointer.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\string.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\fileandpathstring.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\getdevval.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\lib\asm\getbasedev.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\x_memory\search_x.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\y_memory\search_y.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\init.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\stream\asm\streamwordcopy.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\stream\asm\streambytecopy.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\stream\asm\getbytefromstream.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\stream\asm\getwordfromstream.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\media\asm\media.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\cxtosect.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\handlemacro.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\macro.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\fat.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\cluster.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\chain.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\handle.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\readbuffer.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcb.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\readdirrecord.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\cachedirsector.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\filesystemsetdirectory.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\searchdirectory.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\changedirectory.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\savefcb.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\restorefcb.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbgetfields.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbsetfields.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbpopulate.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbstoretodir.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileseek.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileread.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileeof.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fsutils.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileopen.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileclose.asm"
+Compiling "..\..\..\..\..\filesystem\fat12\filesystemstructs.c"
+Assembling ..\..\..\..\..\filesystem\fat12\filesystem\api\asm\ftell.asm
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\writebuffer.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\createdir.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\deletedir.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\filedelete.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\filerename.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\filewrite.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileappend.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileattribute.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileattributeclear.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\filecreate.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\diraddcluster.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\directory\asm\direrasecluster.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcbnew.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\api\asm\fileclose_write.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\chaindelete.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\handle\asm\fcballocate.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\cluster_write.asm"
+Assembling "..\..\..\..\..\filesystem\fat12\filesystem\fat12\asm\fat_write.asm"
+Assembling ..\..\..\..\..\system\common\sysfatwrite.asm
+Assembling ..\..\..\..\..\filesystem\fat12\filesystem\fsddwrapper.asm
+Compiling ..\..\..\..\..\filesystem\fat12\filesystem\fsddread.c
+Compiling ..\..\..\..\..\filesystem\fat12\filesystem\fsdatadrivegetsize.c
+Compiling ..\..\..\..\..\filesystem\fat12\filesystem\fsdatadrivegetserialnumber.c
+Compiling ..\..\..\..\..\filesystem\fat12\filesystem\fsddwrite.c
+Compiling ..\..\..\..\..\filesystem\fat12\filesystem\fsdatadriveinit.c
+Compiling ..\..\..\..\..\filesystem\fat12\filesystem\fsgetdatadrivepbslocation.c
+Compiling ..\..\..\..\..\filesystem\fat12\filesystem\fspartitionentrycopy.c
+Creating IEEE archive library file for FAT12 File System "..\output_3500\obj\fat12lib_funclets.a"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadrivestubs.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddflush.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadriveinit.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadrivewritesector.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadrivemultiwrite.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadrivemultiwritedumb.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadrivereadsector.c"
+Assembling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadrivedescriptorsinit.asm"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadrivegetinfo.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadrivesetinfo.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nanddatadriveerase.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddaddblktobbtbl.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddconvertlogicaltorelative.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddconvertrelativetophysical.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddgetfreeerasedrblock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddlinconvertrelativetophys.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddlingetfreeerasedrblock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddlookuprblock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddmpconvertrelativetophys.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddmpgetfreeerasedrblock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddrecoverbadhblock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddrecoverbadrblock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddsearchbbtblforphysblock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddstartnewupdate.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddlookupublock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddlookupusector.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddkillupdate.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddaddusector.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddgetusectorsmap.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddcloseupdate.c"
+Assembling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddusectorsmapsutils.asm"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddublkutils.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddgetfreeerasedublock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddsetsectorlba.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddrecoverbadublock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddkillusector.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddprotectublocks.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddgetrecycledublock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddcopysectors.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\garbagecollector\nddfggc.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\garbagecollector\nddfindfreeublock.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\garbagecollector\nddfreshenupdate.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\garbagecollector\nddbggc.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\updateblocks\nddkillusectorsmap.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\datadrive\nddwritesector.c"
+Creating IEEE archive library file for DriveTypeNAND Data Drive ..\output_3500\obj\dd_nand_data_drive.a
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\common\nandcalculateeccsync.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\common\nandwritesync.c"
+Creating IEEE archive library file for DriveTypeNAND Common DDI files ..\output_3500\obj\dd_nand_ddi_common.a
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdriveinit.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdrivesetinfo.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdrivegetinfo.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdrivereadsector.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdrivewritesector.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdriveflush.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdriveerase.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdrivemultiwrite.c"
+Assembling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\systemdrive\nandsystemdrivedescinit.asm"
+Creating IEEE archive library file for DriveTypeNAND System Drive ..\output_3500\obj\dd_nand_system_drive.a
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediainit.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediaallocate.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediadiscover.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediagetmediatable.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediagetinfo.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediaerase.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediaclosemedia.c"
+Assembling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediadescriptorsinit.asm"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\ddi\media\nandmediadefaults.c"
+Creating IEEE archive library file for DriveTypeNAND Media ..\output_3500\obj\dd_nand_media.a
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\nandhalreadfunctions.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\type1\nandhaltype1descriptors.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\type2\nandhaltype2descriptors.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\type3\nandhaltype3descriptors.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\nandhalinitfunctions.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\type1\nandhaltype1writefunctions.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\type2\nandhaltype2writefunctions.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\nandhalmarkblockbadinra.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\nandhalcommonfunctions.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\nandhalsetnandbusy.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\sdk2400\nandhallocknand.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\sdk2400\nandhallockinterfaceport.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\sdk2400\nandhallockecc.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\d3500\nandhalstartcomputeecc.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\d3500\nandhalcorrectecc.c"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\d3500\nandhalcomputeeccgetstatus.c"
+Assembling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\ecc\streamutils.asm"
+Compiling "..\..\..\..\..\devicedriver\media\mediatypenand\hal\common\nandhalproject.c"
+Creating IEEE archive library file for NAND HAL API "..\output_3500\obj\nandhal.a"
+Assembling "..\..\..\..\..\devicedriver\media\porthil\common\cfgpporthilcommonpads_asm.asm"
+Assembling "..\..\..\..\..\devicedriver\media\porthil\gpflash\gpporthilcommands_asm.asm"
+Assembling "..\..\..\..\..\devicedriver\media\porthil\gpflash\gpporthilwritecommands_asm.asm"
+Creating IEEE archive library file for Port HIL API "..\output_3500\obj\porthil.a"
+Assembling "..\..\..\..\..\devicedriver\media\ddildl\ddildl_asm.asm"
+Assembling "..\..\..\..\..\devicedriver\media\ddildl\ddildl_write_asm.asm"
+Assembling "..\..\..\..\..\devicedriver\media\ddildl\ddildl_utils_asm.asm"
+Creating IEEE archive library file for DDI LDL API ..\output_3500\obj\ddildl.a
+Assembling ..\..\..\..\..\system\common\stringlib\pack_string.asm
+Assembling ..\..\..\..\..\system\common\stringlib\packed_get.asm
+Assembling ..\..\..\..\..\system\common\stringlib\packed_set.asm
+Assembling ..\..\..\..\..\system\common\stringlib\packed_strlen.asm
+Assembling ..\..\..\..\..\system\common\stringlib\packed_strcpy.asm
+Assembling ..\..\..\..\..\system\common\stringlib\packed_strcmp.asm
+Assembling ..\..\..\..\..\system\common\stringlib\packed_strncmp.asm
+Assembling ..\..\..\..\..\system\common\stringlib\packed_strncat.asm
+Assembling ..\..\..\..\..\system\common\stringlib\packed_strcat.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strcat.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strcmp.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strcpy.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strlen.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strncat.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strncmp.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strncpy.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strchr.asm
+Assembling ..\..\..\..\..\system\common\stringlib\strrchr.asm
+Assembling ..\..\..\..\..\system\common\stringlib\unpack_string.asm
+Assembling ..\..\..\..\..\system\common\stringlib\unpack_data.asm
+Assembling ..\..\..\..\..\system\common\stringlib\getbytearrayx.asm
+Assembling ..\..\..\..\..\system\common\stringlib\getbytearrayy.asm
+Assembling ..\..\..\..\..\system\common\stringlib\putbytearrayx.asm
+Assembling ..\..\..\..\..\system\common\stringlib\putbytearrayy.asm
+Compiling ..\..\..\..\..\system\common\stringlib\itoa.c
+Creating IEEE archive library file for string library ..\output_3500\obj\stringlib.a
+Compiling ..\..\..\..\..\system\common\stdlib\srand.c
+Compiling ..\..\..\..\..\system\common\stdlib\rand.c
+Assembling ..\..\..\..\..\system\common\stdlib\gettime.asm
+Creating IEEE archive library file for stdlib library ..\output_3500\obj\stdlib.a
+Compiling ..\..\..\..\..\libsource\sysserialnumber\chipserialnumberinit.c
+Compiling ..\..\..\..\..\libsource\sysserialnumber\intmediaserialnuminit.c
+Compiling ..\..\..\..\..\libsource\sysserialnumber\3500\chipgetserialnumber.c
+Compiling ..\..\..\..\..\libsource\sysserialnumber\createnullserialnumber.c
+Compiling ..\..\..\..\..\libsource\sysserialnumber\converthextoascii.c
+Creating IEEE archive library file for USB Driver..\output_3500\obj\sysserialnumber_funclets.a
+Compiling aboutmenu.c
+Linking player.out
+Creating IEEE-695 absolute file ..\output_3500\player.abs
+Extract MetaData codebanks
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\metadata_codebank.src from [.ptextmetadata], [MenuManager_p].
+Module  Extracted:  metadata_codebank.src
+             size:  699(dec)
+            start:  0xB352
+             stop:  0xB60C
+Creating ..\output_3500\rsrc\mp3metadata_codebank.src from [.ptextmp3metadata], [.pconstmp3metadata], [MenuManager_p].
+Module  Extracted:  mp3metadata_codebank.src
+             size:  2491(dec)
+            start:  0xB352
+             stop:  0xBD0C
+Creating ..\output_3500\rsrc\wmametadata_codebank.src from [.ptextwmametadata], [MenuManager_p].
+Module  Extracted:  wmametadata_codebank.src
+             size:  1551(dec)
+            start:  0xB352
+             stop:  0xB960
+Creating ..\output_3500\rsrc\wavmetadata_codebank.src from [.ptextwavmetadata], [MenuManager_p].
+Module  Extracted:  wavmetadata_codebank.src
+             size:  609(dec)
+            start:  0xB352
+             stop:  0xB5B2
+Creating ..\output_3500\rsrc\id3v2_codebank.src from [.ptextid3v2], [MenuManager_p].
+Module  Extracted:  id3v2_codebank.src
+             size:  1338(dec)
+            start:  0xB352
+             stop:  0xB88B
+Creating ..\output_3500\rsrc\vbr_codebank.src  from [.ptextvbr], [MenuManager_p].
+Module  Extracted:  vbr_codebank.src 
+             size:  1654(dec)
+            start:  0xB352
+             stop:  0xB9C7
+Extract Funclet_DBCSToUnicode
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_dbcstounicode.src from [SYSFUNCLET_DBCS_TO_UNICODE_P].
+Module  Extracted:  ..\output_3500\rsrc\funclet_dbcstounicode.src
+             size:  288(dec)
+            start:  0xB0F7
+             stop:  0xB216
+Extract Mixer Module
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\mixmod.src from [MIXMOD_Mixer_overlay_P].
+Module  Extracted:  ..\output_3500\rsrc\mixmod.src
+             size:  720(dec)
+            start:  0xB352
+             stop:  0xB621
+Extract Settings Module
+ExtractCluster:  Version 2.2 
+Cluster Extracted:  Settings_Y
+             size:  43(dec)
+            start:  0x6000
+             stop:  0x602A
+ExtractCluster:  Finished Extracting Module.
+Extract System Module
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\sysmod.src from [.ptextbatterycharge], [.ptextbatterychargetask], [.pdatabatterychargetask], [.ptextliion], [SystemApi_P_overlay], [.ptextsystemmodule].
+Module  Extracted:  ..\output_3500\rsrc\sysmod.src
+             size:  768(dec)
+            start:  0xB352
+             stop:  0xB651
+Extract Soft Timer Module
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\softtimermod.src from [.ptextsofttimers].
+Module  Extracted:  ..\output_3500\rsrc\softtimermod.src
+             size:  387(dec)
+            start:  0xB352
+             stop:  0xB4D4
+Extract Geq Overlay Module
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\geqoverlay.src from [GeqOverlay_overlay_P].
+Module  Extracted:  ..\output_3500\rsrc\geqoverlay.src
+             size:  637(dec)
+            start:  0xB352
+             stop:  0xB5CE
+Extract WriteFAT12 P
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\fatwritex.src from [WriteFAT12_x].
+Module  Extracted:  fatwritex.src
+             size:  173(dec)
+            start:  0x054D
+             stop:  0x05F9
+Creating ..\output_3500\rsrc\fatwritey.src from [WriteFAT12_y].
+Module  Extracted:  fatwritey.src
+             size:  18(dec)
+            start:  0x3A52
+             stop:  0x3A63
+             gaps:  1(dec)
+Creating ..\output_3500\rsrc\fatwritep.src from [WriteFAT12_p], [.ptextnddcopysectors], [.ptextnddfindfreeublock], [.ptextnddstartnewupdate], [.ptextfsddwrite], [.ptextnddkillusectorsmap], [.ptextnandwritesync], [.ptextnddrecoverbadhblock], [.ptextnddrecoverbadrblock], [.ptextnddlingetfreeerasedrblock], [.ptextnddgetrecycledublock], [.ptextnddfreshenupdate], [.ptextnddfggc], [.ptextnddaddusector], [.ptextnddrecoverbadublock], [.ptextnddgetfreeerasedublock], [.ptextnddwritesector], [.ptextnddkillusector], [.ptextnddcloseupdate], [.ptextnandhaltype1writefunctions], [.ptextnandhaltype2writefunctions], [NANDHIL_Write_P], [.ptextnddgetfreeerasedrblock], [.ptextnandcalculateeccsync], [.ptextnandhalmarkblockbadinra], [.ptextnandhalstartcomputeecc], [.ptextnddkillupdate], [.ptextnddsetsectorlba], [.ptextnandsystemdriveerase], [.ptextnandsystemdrivewritesector].
+Module  Extracted:  fatwritep.src
+             size:  12438(dec)
+            start:  0x0080
+             stop:  0x3115
+Extract ADPCM Decoder Module
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\decadpcmimamod.src from [DECMOD_AdpcmIma_overlay_P].
+Module  Extracted:  ..\output_3500\rsrc\decadpcmimamod.src
+             size:  1441(dec)
+            start:  0xB352
+             stop:  0xB8F2
+"Extract ADPCM Dec X & ADPCM Dec Y"
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\dec_adpcmp.src from [.ptextwave], [ADPCM_Wave_BitStream_P], [DECAPP_DecAdpcmImaNonOverlay_P], [.ptextwavedec], [Decode_IMA_ADPCM_Block_P], [Decode_MS_ADPCM_Block_P], [Decode_PCM_Block_P], [ADPCM_BitStream_Decoder_P], [ADPCM_BitStream_Decoder_P].
+Module  Extracted:  dec_adpcmp.src
+             size:  1554(dec)
+            start:  0x3116
+             stop:  0x3727
+Creating ..\output_3500\rsrc\dec_adpcmx.src from [IMAADPCM_Tables_X], [DECAPP_DecAdpcmMem_X], [DECAPP_DecAdpcmMem_X].
+Module  Extracted:  dec_adpcmx.src
+             size:  363(dec)
+            start:  0x0000
+             stop:  0x016A
+             gaps:  151(dec)
+Creating ..\output_3500\rsrc\dec_adpcmy.src from [IMAADPCM_Data_Y], [MSADPCM_Mem_Y], [Bitstream_Wave_Y], [.ydatawave], .ybsswave, DECAPP_DecAdpcmMem_mod_Y, [DECAPP_DecAdpcmMem_Y], [.yovlwavedec].
+Module  Extracted:  dec_adpcmy.src
+             size:  10821(dec)
+            start:  0x1000
+             stop:  0x3A44
+             gaps:  5494(dec)
+Extract ADPCM Encoder Module
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\encadpcmimamod.src from [ENCMOD_AdpcmIma_overlay_P].
+Module  Extracted:  ..\output_3500\rsrc\encadpcmimamod.src
+             size:  692(dec)
+            start:  0xB352
+             stop:  0xB605
+"Extract ADPCM Enc X & ADPCM Enc Y"
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\enc_adpcmp.src from [.ptextwave], [ADPCM_Wave_BitStream_P], [ENCAPP_EncAdpcmImaNonOverlay_P], [Encode_IMA_ADPCM_Block_P], [Encode_MSADPCM_Block_P], [Encode_PCM_Block_P], [ADPCM_BitStream_Encoder_P], [.ptextwaveenc].
+Module  Extracted:  enc_adpcmp.src
+             size:  2750(dec)
+            start:  0x3116
+             stop:  0x3BD3
+Creating ..\output_3500\rsrc\enc_adpcmx.src from [IMAADPCM_Tables_X], [ENCAPP_EncAdpcmMem_X], [ENCAPP_EncAdpcmImaNonOverlay_X].
+Module  Extracted:  enc_adpcmx.src
+             size:  845(dec)
+            start:  0x0000
+             stop:  0x034C
+             gaps:  303(dec)
+Creating ..\output_3500\rsrc\enc_adpcmy.src from [IMAADPCM_Data_Y], [MSADPCM_Mem_Y], [Bitstream_Wave_Y], [.ydatawave], .ybsswave, [ENCAPP_EncAdpcmMem_Y], [ENCAPP_EncAdpcmImaNonOverlay_Y], [.yovlwaveenc].
+Module  Extracted:  enc_adpcmy.src
+             size:  4218(dec)
+            start:  0x1000
+             stop:  0x2079
+             gaps:  3989(dec)
+Extract Decoder Module
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\decmod.src from [DECMOD_DecoderOverlay_overlay_P].
+Module  Extracted:  ..\output_3500\rsrc\decmod.src
+             size:  1831(dec)
+            start:  0xB352
+             stop:  0xBA78
+"Extract Decoder P & X & Y"
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\mp3x.src from DECAPP_Mp3DecoderMem_X, [.xerr_func], [.xWorkBuffer], [.xconfig], [.xtools], [.xcrc_mpeg], [.xFMP3_HostFuncTable], [.xrecfdom], [.xfreqidx], [.xBitrate_MPEG1], [.xBitrate_MPEG2], [.xBitrate_MPEG25], [.xFReset_to_zero], [.xexp2infc], [.xanc_data_x], [.xl3_core], [.xchanctl], [.xinvquant], [.xl_huffdec], [.xasm_wrap_x], [.xinvstero], [.xFMP3_HostParmTable], [.xdeemph], [.xl3_head], [.xmtabs], [.xinvmdctl], [.xdec_l3], [.xscalefac], [xOVLN], [.xsfbwidth], [.xipolypha], [.xhct__std], [.xCopyB2B_asm], [.xdatalayer2tables], [.xBitrate], [.xdatalayerallo], [.xdatampegmain], [.xdatacommon], [.xdatampegmem], [.xdatabitstreams], [.xdatatables], [.xdatadec_play], [.xovlbitstreams], [.xovlcommon], [.xovldec_play], [.xovlmpegmain], [.xovllayer1], [.xovllayerallo], [DECAPP_DecoderNonOverlay_X], [DECAPP_Mp3DecoderMem_2_X], [DECAPP_Mp3WrapperMem_X], [DECAPP_DecoderMem_X].
+Module  Extracted:  mp3x.src
+             size:  9051(dec)
+            start:  0x0000
+             stop:  0x235A
+             gaps:  1905(dec)
+Creating ..\output_3500\rsrc\mp3y.src from [.yinvmdctl], [.yiployphal_m], [.yiployphar_m], [.yihybrid], [.yx43tab], [.ychanctl], [yOVLN], [.yinvmdctl_2], [.ydatalayer2tables], [.ydatatables], [DECAPP_Mp3DecoderMem_Y], [DECAPP_DecoderMem_Y].
+Module  Extracted:  mp3y.src
+             size:  2428(dec)
+            start:  0x1900
+             stop:  0x227B
+             gaps:  1703(dec)
+Creating ..\output_3500\rsrc\mp3p.src from [.pnear_huffdec], [.pnear_huffdec2], [.ph_recfdom], [.pdivmod], [.pdivunint], [.pupdptr], [.perr_func], [.pdiv_sig], [.pasmwrap], [.pbttrfly], [.pconfig], [.pexp2infc], [.pdescalyy], [.pfreqidx], [.pcrc_mpeg], [.phuffdec2], [.pdeemph], [.ptools], [.pchanctl], [.psfbwidth], [.pinvquant], [.panc_data], [.pihybrid], [.pset_ssl], [.pinvstero], [.pscalefac], [.pl3_core], [.phuffdec], [.pl3_sync], [.pdec_l3], [.precfdom], [.pinvmdctl], [.pipolypha], [.pl3_head], [.pPTROFBSS_C], [.pRegisterBitPtr2BitNr], [.pPTROFBSS_asm], [.pBIT_DIS_asm], [.pskip_bit_asm], [.pDIV_24_C], [.pBSS2RegisterBitPtr], [.prd_f_bit_asm], [.prd_v_bit_asm], [.pwr_v_bit_asm], [.pCopyB2B_asm], [.ptextdec_play], [.pSubbandSynthesisLoop], [.ptextcommon], [.pGetSamples_Layer2], [.ptextmpegmain], [.ptextlayer1], [.ptextbitstreams], [.ptextlayerallo], [.Layer12BitFunc], [DECAPP_DecoderNonOverlay_P], [DECAPP_Mp3Dec_P].
+Module  Extracted:  mp3p.src
+             size:  12432(dec)
+            start:  0x0080
+             stop:  0x310F
+Creating IEEE-695 absolute file ..\output_3500\playerwma.abs
+"Extract WMA Decoder Sections"
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\wmainit.src from [.pInit].
+Module  Extracted:  wmainit.src
+             size:  3164(dec)
+            start:  0x4B1E
+             stop:  0x5779
+Creating ..\output_3500\rsrc\wmaCommon.src from [DECMODWMA_DecoderNonOverlay_P], [DECWMAMOD_WMADec_P], [.pwext], [.pCommon].
+Module  Extracted:  wmaCommon.src
+             size:  19102(dec)
+            start:  0x0080
+             stop:  0x4B1D
+Creating ..\output_3500\rsrc\wmaCore.src from [.pCore].
+Module  Extracted:  wmaCore.src
+             size:  4169(dec)
+            start:  0x4B1E
+             stop:  0x5B66
+Creating ..\output_3500\rsrc\wmaHigh.src from [.pHigh].
+Module  Extracted:  wmaHigh.src
+             size:  824(dec)
+            start:  0x5F07
+             stop:  0x623E
+Creating ..\output_3500\rsrc\wmaMid.src from [.pMid].
+Module  Extracted:  wmaMid.src
+             size:  871(dec)
+            start:  0x5F07
+             stop:  0x626D
+Creating ..\output_3500\rsrc\wmaHighMid.src from [.pHighMid].
+Module  Extracted:  wmaHighMid.src
+             size:  36(dec)
+            start:  0x5EE3
+             stop:  0x5F06
+Creating ..\output_3500\rsrc\wmaLow.src from [.pLow].
+Module  Extracted:  wmaLow.src
+             size:  2193(dec)
+            start:  0x5EE3
+             stop:  0x6773
+Creating ..\output_3500\rsrc\wmaMidLow.src from [.pMidLow].
+Module  Extracted:  wmaMidLow.src
+             size:  892(dec)
+            start:  0x5B67
+             stop:  0x5EE2
+Creating ..\output_3500\rsrc\wmaHuff16Ob.src from [.huff16Ob].
+Module  Extracted:  wmaHuff16Ob.src
+             size:  1720(dec)
+            start:  0x2171
+             stop:  0x2828
+Creating ..\output_3500\rsrc\wmaHuff44Ob.src from [.huff44Ob].
+Module  Extracted:  wmaHuff44Ob.src
+             size:  4849(dec)
+            start:  0x2171
+             stop:  0x3461
+Creating ..\output_3500\rsrc\wmaHuff44Qb.src from [.huff44Qb].
+Module  Extracted:  wmaHuff44Qb.src
+             size:  2348(dec)
+            start:  0x2171
+             stop:  0x2A9C
+Creating ..\output_3500\rsrc\wmaWrap.src from [DECWMAMOD_DecoderOverlay_overlay_P], [.wmadecinit].
+Module  Extracted:  wmaWrap.src
+             size:  1597(dec)
+            start:  0xB352
+             stop:  0xB98E
+Creating ..\output_3500\rsrc\wmaX1mem.src from WmaDecoderMem_X, [.drmdata], [.rgcValidBarkBand], [.rgiMaskQ], [.rgiBarkIndexOrig], [.Midrate], [WMA_X_mem], [.data], [DECWMAMOD_DecoderMem_X], [.xconst], [.licdata], [.OtherInputData], [.xdatawmafilelicenseinit], [.xwata].
+Module  Extracted:  wmaX1mem.src
+             size:  6256(dec)
+            start:  0x2200
+             stop:  0x3A6F
+             gaps:  3035(dec)
+Creating ..\output_3500\rsrc\wmaYmem.src from [WMA_Y_mem], [.piPrevOutput], [WmaDecoderMem_Y], [.WMA_ParsePayloadHeader], [.stackdata], [.ydata], [.yovl], [.WMA_LoadAudioObject], [.ybuf], [.sincosdata], [DECWMAMOD_DecoderMem_Y], [.InBuf], [.MaskTable], [.prvGetBandWeightLowRate], [.NoiseSubTables].
+Module  Extracted:  wmaYmem.src
+             size:  4465(dec)
+            start:  0x1000
+             stop:  0x2170
+             gaps:  3234(dec)
+"Extract WMA Decoder Clusters"
+ExtractCluster:  Version 2.2 
+Cluster Extracted:  L_TablesX
+             size:  205(dec)
+            start:  0x3F00
+             stop:  0x3FCC
+ExtractCluster:  Finished Extracting Module.
+"Extract WMA Decoder Clusters"
+ExtractCluster:  Version 2.2 
+Cluster Extracted:  L_TablesY
+             size:  205(dec)
+            start:  0x3F00
+             stop:  0x3FCC
+ExtractCluster:  Finished Extracting Module.
+Extract TunerModule
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\tunermodule.src from [.ptexttunermodule], [.ptextphilips5767], [.pconstphilips5767].
+Module  Extracted:  ..\output_3500\rsrc\tunermodule.src
+             size:  2773(dec)
+            start:  0xB352
+             stop:  0xBE26
+Extract playlistmisc_codebank
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\playlistmisc_codebank.src from [MenuManager_p], [.ptextplaylistmisc], [.ptextlongfilenames].
+Module  Extracted:  ..\output_3500\rsrc\playlistmisc_codebank.src
+             size:  3003(dec)
+            start:  0xB352
+             stop:  0xBF0C
+             gaps:  221(dec)
+Extract playlist_codebank
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\playlist_codebank.src from [MenuManager_p], [.ptextplaylist1], [.ptextlongfilenames].
+Module  Extracted:  ..\output_3500\rsrc\playlist_codebank.src
+             size:  3003(dec)
+            start:  0xB352
+             stop:  0xBF0C
+Extract DisplayModule .ptextdisplaymodule,.ptextdisplaydrv,.ptextnt7502,.ptextframebuffer
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\displaymodule.src from [.ptextdisplaymodule], [.ptextdisplaydrv], [.ptextnt7502], [.ptextframebuffer].
+Module  Extracted:  ..\output_3500\rsrc\displaymodule.src
+             size:  3241(dec)
+            start:  0xB352
+             stop:  0xBFFA
+copy ..\Rsrc\null.src ..\output_3500\rsrc\enc_mp3mod.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\enc_mp3p.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\enc_mp3x.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\enc_mp3y.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\string_mp3.src
+        1 file(s) copied.
+Extract Menus
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\mainmenu.src from [MenuManager_p], [.ptextmainmenu], [.pdatamainmenu].
+Module  Extracted:  mainmenu.src
+             size:  1268(dec)
+            start:  0xB352
+             stop:  0xB845
+Creating ..\output_3500\rsrc\contrastmenu.src from [MenuManager_p], [.ptextcontrastmenu].
+Module  Extracted:  contrastmenu.src
+             size:  498(dec)
+            start:  0xB352
+             stop:  0xB543
+Creating ..\output_3500\rsrc\deletemenu.src from [MenuManager_p], [.ptextdeletemenu], [.pdatadeletemenu].
+Module  Extracted:  deletemenu.src
+             size:  585(dec)
+            start:  0xB352
+             stop:  0xB59A
+Creating ..\output_3500\rsrc\aboutmenu.src from [MenuManager_p], [.ptextaboutmenu], [.pdataaboutmenu].
+Module  Extracted:  aboutmenu.src
+             size:  652(dec)
+            start:  0xB352
+             stop:  0xB5DD
+Creating ..\output_3500\rsrc\recorderstatemachine.src from [MenuManager_p], [.ptextrecorderstatemachine], [.ptextrecordmenu], [.pdatarecordmenu].
+Module  Extracted:  recorderstatemachine.src
+             size:  2518(dec)
+            start:  0xB352
+             stop:  0xBD27
+Creating ..\output_3500\rsrc\musicmenu.src from [MenuManager_p], [.ptextmusicmenu].
+Module  Extracted:  musicmenu.src
+             size:  734(dec)
+            start:  0xB352
+             stop:  0xB62F
+Creating ..\output_3500\rsrc\voicemenu.src from [MenuManager_p], [.ptextvoicemenu], [.pdatavoicemenu].
+Module  Extracted:  voicemenu.src
+             size:  1218(dec)
+            start:  0xB352
+             stop:  0xB813
+Creating ..\output_3500\rsrc\fmtunermenu.src from [MenuManager_p], [.ptextfmtunermenu], [.pdatafmtunermenu].
+Module  Extracted:  fmtunermenu.src
+             size:  3216(dec)
+            start:  0xB352
+             stop:  0xBFE1
+Creating ..\output_3500\rsrc\displaylists.src from [MenuManager_p], [.ptextdisplaylists], [.ptextdisplayeq], [.pdatadisplayeq].
+Module  Extracted:  displaylists.src
+             size:  587(dec)
+            start:  0xB352
+             stop:  0xB59C
+Creating ..\output_3500\rsrc\othermenu.src from [MenuManager_p], [.ptextothermenu], [.pdataothermenu].
+Module  Extracted:  othermenu.src
+             size:  1847(dec)
+            start:  0xB352
+             stop:  0xBA88
+Creating ..\output_3500\rsrc\pwrsettingsmenu.src from [MenuManager_p], [.ptextpwrsettingsmenu], [.pdatapwrsettingsmenu].
+Module  Extracted:  pwrsettingsmenu.src
+             size:  702(dec)
+            start:  0xB352
+             stop:  0xB60F
+Creating ..\output_3500\rsrc\eqmenu.src from [MenuManager_p], [.ptexteqmenu], [.pdataeqmenu].
+Module  Extracted:  eqmenu.src
+             size:  1591(dec)
+            start:  0xB352
+             stop:  0xB988
+Extract Menus
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\mainmenu.src from [MenuManager_p], [.ptextmainmenu], [.pdatamainmenu].
+Module  Extracted:  mainmenu.src
+             size:  1268(dec)
+            start:  0xB352
+             stop:  0xB845
+Creating ..\output_3500\rsrc\contrastmenu.src from [MenuManager_p], [.ptextcontrastmenu].
+Module  Extracted:  contrastmenu.src
+             size:  498(dec)
+            start:  0xB352
+             stop:  0xB543
+Creating ..\output_3500\rsrc\deletemenu.src from [MenuManager_p], [.ptextdeletemenu], [.pdatadeletemenu].
+Module  Extracted:  deletemenu.src
+             size:  585(dec)
+            start:  0xB352
+             stop:  0xB59A
+Creating ..\output_3500\rsrc\aboutmenu.src from [MenuManager_p], [.ptextaboutmenu], [.pdataaboutmenu].
+Module  Extracted:  aboutmenu.src
+             size:  652(dec)
+            start:  0xB352
+             stop:  0xB5DD
+Creating ..\output_3500\rsrc\recorderstatemachine.src from [MenuManager_p], [.ptextrecorderstatemachine], [.ptextrecordmenu], [.pdatarecordmenu].
+Module  Extracted:  recorderstatemachine.src
+             size:  2518(dec)
+            start:  0xB352
+             stop:  0xBD27
+Creating ..\output_3500\rsrc\musicmenu.src from [MenuManager_p], [.ptextmusicmenu].
+Module  Extracted:  musicmenu.src
+             size:  734(dec)
+            start:  0xB352
+             stop:  0xB62F
+Creating ..\output_3500\rsrc\voicemenu.src from [MenuManager_p], [.ptextvoicemenu], [.pdatavoicemenu].
+Module  Extracted:  voicemenu.src
+             size:  1218(dec)
+            start:  0xB352
+             stop:  0xB813
+Creating ..\output_3500\rsrc\fmtunermenu.src from [MenuManager_p], [.ptextfmtunermenu], [.pdatafmtunermenu].
+Module  Extracted:  fmtunermenu.src
+             size:  3216(dec)
+            start:  0xB352
+             stop:  0xBFE1
+Creating ..\output_3500\rsrc\displaylists.src from [MenuManager_p], [.ptextdisplaylists], [.ptextdisplayeq], [.pdatadisplayeq].
+Module  Extracted:  displaylists.src
+             size:  587(dec)
+            start:  0xB352
+             stop:  0xB59C
+Creating ..\output_3500\rsrc\othermenu.src from [MenuManager_p], [.ptextothermenu], [.pdataothermenu].
+Module  Extracted:  othermenu.src
+             size:  1847(dec)
+            start:  0xB352
+             stop:  0xBA88
+Creating ..\output_3500\rsrc\pwrsettingsmenu.src from [MenuManager_p], [.ptextpwrsettingsmenu], [.pdatapwrsettingsmenu].
+Module  Extracted:  pwrsettingsmenu.src
+             size:  702(dec)
+            start:  0xB352
+             stop:  0xB60F
+Creating ..\output_3500\rsrc\eqmenu.src from [MenuManager_p], [.ptexteqmenu], [.pdataeqmenu].
+Module  Extracted:  eqmenu.src
+             size:  1591(dec)
+            start:  0xB352
+             stop:  0xB988
+Extract Menus
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\mainmenu.src from [MenuManager_p], [.ptextmainmenu], [.pdatamainmenu].
+Module  Extracted:  mainmenu.src
+             size:  1268(dec)
+            start:  0xB352
+             stop:  0xB845
+Creating ..\output_3500\rsrc\contrastmenu.src from [MenuManager_p], [.ptextcontrastmenu].
+Module  Extracted:  contrastmenu.src
+             size:  498(dec)
+            start:  0xB352
+             stop:  0xB543
+Creating ..\output_3500\rsrc\deletemenu.src from [MenuManager_p], [.ptextdeletemenu], [.pdatadeletemenu].
+Module  Extracted:  deletemenu.src
+             size:  585(dec)
+            start:  0xB352
+             stop:  0xB59A
+Creating ..\output_3500\rsrc\aboutmenu.src from [MenuManager_p], [.ptextaboutmenu], [.pdataaboutmenu].
+Module  Extracted:  aboutmenu.src
+             size:  652(dec)
+            start:  0xB352
+             stop:  0xB5DD
+Creating ..\output_3500\rsrc\recorderstatemachine.src from [MenuManager_p], [.ptextrecorderstatemachine], [.ptextrecordmenu], [.pdatarecordmenu].
+Module  Extracted:  recorderstatemachine.src
+             size:  2518(dec)
+            start:  0xB352
+             stop:  0xBD27
+Creating ..\output_3500\rsrc\musicmenu.src from [MenuManager_p], [.ptextmusicmenu].
+Module  Extracted:  musicmenu.src
+             size:  734(dec)
+            start:  0xB352
+             stop:  0xB62F
+Creating ..\output_3500\rsrc\voicemenu.src from [MenuManager_p], [.ptextvoicemenu], [.pdatavoicemenu].
+Module  Extracted:  voicemenu.src
+             size:  1218(dec)
+            start:  0xB352
+             stop:  0xB813
+Creating ..\output_3500\rsrc\fmtunermenu.src from [MenuManager_p], [.ptextfmtunermenu], [.pdatafmtunermenu].
+Module  Extracted:  fmtunermenu.src
+             size:  3216(dec)
+            start:  0xB352
+             stop:  0xBFE1
+Creating ..\output_3500\rsrc\displaylists.src from [MenuManager_p], [.ptextdisplaylists], [.ptextdisplayeq], [.pdatadisplayeq].
+Module  Extracted:  displaylists.src
+             size:  587(dec)
+            start:  0xB352
+             stop:  0xB59C
+Creating ..\output_3500\rsrc\othermenu.src from [MenuManager_p], [.ptextothermenu], [.pdataothermenu].
+Module  Extracted:  othermenu.src
+             size:  1847(dec)
+            start:  0xB352
+             stop:  0xBA88
+Creating ..\output_3500\rsrc\pwrsettingsmenu.src from [MenuManager_p], [.ptextpwrsettingsmenu], [.pdatapwrsettingsmenu].
+Module  Extracted:  pwrsettingsmenu.src
+             size:  702(dec)
+            start:  0xB352
+             stop:  0xB60F
+Creating ..\output_3500\rsrc\eqmenu.src from [MenuManager_p], [.ptexteqmenu], [.pdataeqmenu].
+Module  Extracted:  eqmenu.src
+             size:  1591(dec)
+            start:  0xB352
+             stop:  0xB988
+Extract Menus
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\mainmenu.src from [MenuManager_p], [.ptextmainmenu], [.pdatamainmenu].
+Module  Extracted:  mainmenu.src
+             size:  1268(dec)
+            start:  0xB352
+             stop:  0xB845
+Creating ..\output_3500\rsrc\contrastmenu.src from [MenuManager_p], [.ptextcontrastmenu].
+Module  Extracted:  contrastmenu.src
+             size:  498(dec)
+            start:  0xB352
+             stop:  0xB543
+Creating ..\output_3500\rsrc\deletemenu.src from [MenuManager_p], [.ptextdeletemenu], [.pdatadeletemenu].
+Module  Extracted:  deletemenu.src
+             size:  585(dec)
+            start:  0xB352
+             stop:  0xB59A
+Creating ..\output_3500\rsrc\aboutmenu.src from [MenuManager_p], [.ptextaboutmenu], [.pdataaboutmenu].
+Module  Extracted:  aboutmenu.src
+             size:  652(dec)
+            start:  0xB352
+             stop:  0xB5DD
+Creating ..\output_3500\rsrc\recorderstatemachine.src from [MenuManager_p], [.ptextrecorderstatemachine], [.ptextrecordmenu], [.pdatarecordmenu].
+Module  Extracted:  recorderstatemachine.src
+             size:  2518(dec)
+            start:  0xB352
+             stop:  0xBD27
+Creating ..\output_3500\rsrc\musicmenu.src from [MenuManager_p], [.ptextmusicmenu].
+Module  Extracted:  musicmenu.src
+             size:  734(dec)
+            start:  0xB352
+             stop:  0xB62F
+Creating ..\output_3500\rsrc\voicemenu.src from [MenuManager_p], [.ptextvoicemenu], [.pdatavoicemenu].
+Module  Extracted:  voicemenu.src
+             size:  1218(dec)
+            start:  0xB352
+             stop:  0xB813
+Creating ..\output_3500\rsrc\fmtunermenu.src from [MenuManager_p], [.ptextfmtunermenu], [.pdatafmtunermenu].
+Module  Extracted:  fmtunermenu.src
+             size:  3216(dec)
+            start:  0xB352
+             stop:  0xBFE1
+Creating ..\output_3500\rsrc\displaylists.src from [MenuManager_p], [.ptextdisplaylists], [.ptextdisplayeq], [.pdatadisplayeq].
+Module  Extracted:  displaylists.src
+             size:  587(dec)
+            start:  0xB352
+             stop:  0xB59C
+Creating ..\output_3500\rsrc\othermenu.src from [MenuManager_p], [.ptextothermenu], [.pdataothermenu].
+Module  Extracted:  othermenu.src
+             size:  1847(dec)
+            start:  0xB352
+             stop:  0xBA88
+Creating ..\output_3500\rsrc\pwrsettingsmenu.src from [MenuManager_p], [.ptextpwrsettingsmenu], [.pdatapwrsettingsmenu].
+Module  Extracted:  pwrsettingsmenu.src
+             size:  702(dec)
+            start:  0xB352
+             stop:  0xB60F
+Creating ..\output_3500\rsrc\eqmenu.src from [MenuManager_p], [.ptexteqmenu], [.pdataeqmenu].
+Module  Extracted:  eqmenu.src
+             size:  1591(dec)
+            start:  0xB352
+             stop:  0xB988
+Extract Menus
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\playmodemenu.src from [MenuManager_p], [.ptextplaymodemenu], [.ptextskipfoldermenu], [.pdataplaymodemenu], [.pdataskipfoldermenu].
+Module  Extracted:  playmodemenu.src
+             size:  1373(dec)
+            start:  0xB352
+             stop:  0xB8AE
+Creating ..\output_3500\rsrc\settingsmenu.src from [MenuManager_p], [.ptextsettingsmenu], [.pdatasettingsmenu].
+Module  Extracted:  settingsmenu.src
+             size:  1981(dec)
+            start:  0xB352
+             stop:  0xBB0E
+Creating ..\output_3500\rsrc\backlightmenu.src from [MenuManager_p], [.ptextbacklightmenu].
+Module  Extracted:  backlightmenu.src
+             size:  475(dec)
+            start:  0xB352
+             stop:  0xB52C
+Creating ..\output_3500\rsrc\record_settings_menu_code_bank.src from [MenuManager_p], [.ptextrecordsettingsmenu], [.pdatarecordsettingsmenu].
+Module  Extracted:  record_settings_menu_code_bank.src
+             size:  210(dec)
+            start:  0xB352
+             stop:  0xB423
+Creating ..\output_3500\rsrc\display.src from [MenuManager_p], [.ptextdisplay].
+Module  Extracted:  display.src
+             size:  2021(dec)
+            start:  0xB352
+             stop:  0xBB36
+Creating ..\output_3500\rsrc\playerstatemachine.src from [MenuManager_p], [.ptextplayerstatemachine], [.ptextplayerlib].
+Module  Extracted:  playerstatemachine.src
+             size:  2897(dec)
+            start:  0xB352
+             stop:  0xBEA2
+Extract SysRecord
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\sysrecord.src from [MenuManager_p], [.ptextsysrecord].
+Module  Extracted:  sysrecord.src
+             size:  935(dec)
+            start:  0xB352
+             stop:  0xB6F8
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mp3_implementation.src
+        1 file(s) copied.
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3500\rsrc\testmenu.src
+        1 file(s) copied.
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_displaysplashscreen.src from [SYSFUNCLET_DisplaySplashScreen_P].
+Module  Extracted:  ..\output_3500\rsrc\funclet_displaysplashscreen.src
+             size:  22(dec)
+            start:  0xB0F7
+             stop:  0xB10C
+Extract Funclets
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\Funclet_SysResetAllInt.src from [SYSFUNCLET_SysResetAllInt_P].
+Module  Extracted:  Funclet_SysResetAllInt.src
+             size:  94(dec)
+            start:  0xB0F7
+             stop:  0xB154
+Creating ..\output_3500\rsrc\Funclet_SysSetupDecVec.src from [SYSFUNCLET_SysSetupDecVec_P].
+Module  Extracted:  Funclet_SysSetupDecVec.src
+             size:  16(dec)
+            start:  0xB0F7
+             stop:  0xB106
+Creating ..\output_3500\rsrc\Funclet_SysSetupEncVec.src from [SYSFUNCLET_SysSetupEncVec_P].
+Module  Extracted:  Funclet_SysSetupEncVec.src
+             size:  20(dec)
+            start:  0xB0F7
+             stop:  0xB10A
+Creating ..\output_3500\rsrc\Funclet_SysTimeInit.src from [SYSFUNCLET_SysTimeInit_P].
+Module  Extracted:  Funclet_SysTimeInit.src
+             size:  15(dec)
+            start:  0xB0F7
+             stop:  0xB105
+Creating ..\output_3500\rsrc\Funclet_AnalogInit.src from [SYSFUNCLET_AnalogInit_P].
+Module  Extracted:  Funclet_AnalogInit.src
+             size:  56(dec)
+            start:  0xB0F7
+             stop:  0xB12E
+Creating ..\output_3500\rsrc\Funclet_UsbConnected.src from [SYSFUNCLET_UsbConnected_P].
+Module  Extracted:  Funclet_UsbConnected.src
+             size:  37(dec)
+            start:  0xB0F7
+             stop:  0xB11B
+Creating ..\output_3500\rsrc\Funclet_ButtonInit.src from [SYSFUNCLET_ButtonInit_P].
+Module  Extracted:  Funclet_ButtonInit.src
+             size:  89(dec)
+            start:  0xB0F7
+             stop:  0xB14F
+Creating ..\output_3500\rsrc\Funclet_PowerUpHeadPhones.src from [SYSFUNCLET_PowerUpHeadPhones_P].
+Module  Extracted:  Funclet_PowerUpHeadPhones.src
+             size:  221(dec)
+            start:  0xB0F7
+             stop:  0xB1D3
+Creating ..\output_3500\rsrc\Funclet_PowerDownHeadPhones.src from [SYSFUNCLET_PowerDownHeadPhones_P].
+Module  Extracted:  Funclet_PowerDownHeadPhones.src
+             size:  217(dec)
+            start:  0xB0F7
+             stop:  0xB1CF
+Creating ..\output_3500\rsrc\Funclet_StartProject.src from [SYSFUNCLET_StartProject_P].
+Module  Extracted:  Funclet_StartProject.src
+             size:  16(dec)
+            start:  0xB0F7
+             stop:  0xB106
+Creating ..\output_3500\rsrc\Funclet_ModuleSetTimer.src from [SYSFUNCLET_ModuleSetTimer_P].
+Module  Extracted:  Funclet_ModuleSetTimer.src
+             size:  42(dec)
+            start:  0xB0F7
+             stop:  0xB120
+Creating ..\output_3500\rsrc\Funclet_ChangeDir.src from [SYSFUNCLET_ChangeDir_P].
+Module  Extracted:  Funclet_ChangeDir.src
+             size:  155(dec)
+            start:  0xB0F7
+             stop:  0xB191
+Creating ..\output_3500\rsrc\Funclet_FatCountCx.src from [SYSFUNCLET_FatCountCx_P].
+Module  Extracted:  Funclet_FatCountCx.src
+             size:  79(dec)
+            start:  0xB0F7
+             stop:  0xB145
+Creating ..\output_3500\rsrc\Funclet_FileSysSetDir.src from [SYSFUNCLET_FileSysSetDir_P].
+Module  Extracted:  Funclet_FileSysSetDir.src
+             size:  310(dec)
+            start:  0xB0F7
+             stop:  0xB22C
+Creating ..\output_3500\rsrc\Funclet_SearchDir.src from [SYSFUNCLET_SearchDir_P].
+Module  Extracted:  Funclet_SearchDir.src
+             size:  190(dec)
+            start:  0xB0F7
+             stop:  0xB1B4
+Creating ..\output_3500\rsrc\Funclet_FileOpen.src from [SYSFUNCLET_FileOpen_P].
+Module  Extracted:  Funclet_FileOpen.src
+             size:  34(dec)
+            start:  0xB0F7
+             stop:  0xB118
+Creating ..\output_3500\rsrc\Funclet_FSOpen.src from [SYSFUNCLET_FSOpen_P].
+Module  Extracted:  Funclet_FSOpen.src
+             size:  149(dec)
+            start:  0xB0F7
+             stop:  0xB18B
+Creating ..\output_3500\rsrc\Funclet_FileClose.src from [SYSFUNCLET_FileClose_P].
+Module  Extracted:  Funclet_FileClose.src
+             size:  55(dec)
+            start:  0xB0F7
+             stop:  0xB12D
+Creating ..\output_3500\rsrc\Funclet_HndlFree.src from [SYSFUNCLET_HndlFree_P].
+Module  Extracted:  Funclet_HndlFree.src
+             size:  83(dec)
+            start:  0xB0F7
+             stop:  0xB149
+Creating ..\output_3500\rsrc\Funclet_SysStopDecoder.src from [SYSFUNCLET_SysStopDecoder_P].
+Module  Extracted:  Funclet_SysStopDecoder.src
+             size:  44(dec)
+            start:  0xB0F7
+             stop:  0xB122
+Creating ..\output_3500\rsrc\Funclet_SysStopEncoder.src from [SYSFUNCLET_SysStopEncoder_P].
+Module  Extracted:  Funclet_SysStopEncoder.src
+             size:  44(dec)
+            start:  0xB0F7
+             stop:  0xB122
+Creating ..\output_3500\rsrc\Funclet_SysSetDecoder.src from [SYSFUNCLET_SysSetDecoder_P].
+Module  Extracted:  Funclet_SysSetDecoder.src
+             size:  26(dec)
+            start:  0xB0F7
+             stop:  0xB110
+Creating ..\output_3500\rsrc\Funclet_SysSetEncoder.src from [SYSFUNCLET_SysSetEncoder_P].
+Module  Extracted:  Funclet_SysSetEncoder.src
+             size:  16(dec)
+            start:  0xB0F7
+             stop:  0xB106
+Creating ..\output_3500\rsrc\Funclet_FileSystemPresent.src from [SYSFUNCLET_FileSystemPresent_P].
+Module  Extracted:  Funclet_FileSystemPresent.src
+             size:  63(dec)
+            start:  0xB0F7
+             stop:  0xB135
+Creating ..\output_3500\rsrc\Funclet_FileSystemType.src from [SYSFUNCLET_FileSystemType_P].
+Module  Extracted:  Funclet_FileSystemType.src
+             size:  31(dec)
+            start:  0xB0F7
+             stop:  0xB115
+Creating ..\output_3500\rsrc\Funclet_FileSystemIsReady.src from [SYSFUNCLET_FileSystemIsReady_P].
+Module  Extracted:  Funclet_FileSystemIsReady.src
+             size:  44(dec)
+            start:  0xB0F7
+             stop:  0xB122
+Creating ..\output_3500\rsrc\Funclet_MEDIAReadBootSector.src from [SYSFUNCLET_MEDIAReadBootSector_P].
+Module  Extracted:  Funclet_MEDIAReadBootSector.src
+             size:  175(dec)
+            start:  0xB0F7
+             stop:  0xB1A5
+Creating ..\output_3500\rsrc\Funclet_MEDIAUpdate.src from [SYSFUNCLET_MEDIAUpdate_P].
+Module  Extracted:  Funclet_MEDIAUpdate.src
+             size:  98(dec)
+            start:  0xB0F7
+             stop:  0xB158
+Creating ..\output_3500\rsrc\Funclet_MTxIsSigmatelFormat.src from [SYSFUNCLET_MTxIsSigmatelFormat_P].
+Module  Extracted:  Funclet_MTxIsSigmatelFormat.src
+             size:  50(dec)
+            start:  0xB0F7
+             stop:  0xB128
+Creating ..\output_3500\rsrc\Funclet_FatCountCxFAT12.src from [SYSFUNCLET_FatCountCxFat12_P].
+Module  Extracted:  Funclet_FatCountCxFAT12.src
+             size:  221(dec)
+            start:  0xB0F7
+             stop:  0xB1D3
+Creating ..\output_3500\rsrc\Funclet_FatCountCxFAT16.src from [SYSFUNCLET_FatCountCxFat16_P].
+Module  Extracted:  Funclet_FatCountCxFAT16.src
+             size:  73(dec)
+            start:  0xB0F7
+             stop:  0xB13F
+Creating ..\output_3500\rsrc\Funclet_ParseDataBootSector.src from [SYSFUNCLET_ParseDataBootSector_P].
+Module  Extracted:  Funclet_ParseDataBootSector.src
+             size:  207(dec)
+            start:  0xB0F7
+             stop:  0xB1C5
+Creating ..\output_3500\rsrc\Funclet_SysSetSpeed.src from [SYSFUNCLET_SysSetSpeed_P].
+Module  Extracted:  Funclet_SysSetSpeed.src
+             size:  201(dec)
+            start:  0xB0F7
+             stop:  0xB1BF
+Creating ..\output_3500\rsrc\Funclet_SysGetVolume.src from [SYSFUNCLET_SysGetVolume_P].
+Module  Extracted:  Funclet_SysGetVolume.src
+             size:  36(dec)
+            start:  0xB0F7
+             stop:  0xB11A
+Creating ..\output_3500\rsrc\Funclet_MixerMasterFadeOut.src from [SYSFUNCLET_MixerMasterFadeOut_P].
+Module  Extracted:  Funclet_MixerMasterFadeOut.src
+             size:  59(dec)
+            start:  0xB0F7
+             stop:  0xB131
+Creating ..\output_3500\rsrc\Funclet_MixerMasterFadeIn.src from [SYSFUNCLET_MixerMasterFadeIn_P].
+Module  Extracted:  Funclet_MixerMasterFadeIn.src
+             size:  68(dec)
+            start:  0xB0F7
+             stop:  0xB13A
+Creating ..\output_3500\rsrc\Funclet_SysLoadFatWrite.src from [SYSFUNCLET_SysLoadFATWrite_p].
+Module  Extracted:  Funclet_SysLoadFatWrite.src
+             size:  42(dec)
+            start:  0xB0F7
+             stop:  0xB120
+Creating ..\output_3500\rsrc\Funclet_SaveSettings.src from [SYSFUNCLET_SysSaveSettings].
+Module  Extracted:  Funclet_SaveSettings.src
+             size:  175(dec)
+            start:  0xB0F7
+             stop:  0xB1A5
+Creating ..\output_3500\rsrc\Funclet_LoadSettings.src from [SYSFUNCLET_SysLoadSettings].
+Module  Extracted:  Funclet_LoadSettings.src
+             size:  115(dec)
+            start:  0xB0F7
+             stop:  0xB169
+Creating ..\output_3500\rsrc\Funclet_FsDataDriveInit.src from [.ptextskiponeword], [.ptextfsdatadriveinit].
+Module  Extracted:  Funclet_FsDataDriveInit.src
+             size:  118(dec)
+            start:  0xB0F7
+             stop:  0xB16C
+Creating ..\output_3500\rsrc\Funclet_FsGetDataDrivePbsLocation.src from [.ptextskiponeword], [.ptextfsgetdatadrivepbslocation].
+Module  Extracted:  Funclet_FsGetDataDrivePbsLocation.src
+             size:  515(dec)
+            start:  0xB0F7
+             stop:  0xB2F9
+Creating ..\output_3500\rsrc\Funclet_FsPartitionEntryCopy.src from [.ptextskiponeword], [.ptextfspartitionentrycopy].
+Module  Extracted:  Funclet_FsPartitionEntryCopy.src
+             size:  250(dec)
+            start:  0xB0F7
+             stop:  0xB1F0
+Creating ..\output_3500\rsrc\Funclet_FsDataDriveGetSize.src from [.ptextskiponeword], [.ptextfsdatadrivegetsize].
+Module  Extracted:  Funclet_FsDataDriveGetSize.src
+             size:  71(dec)
+            start:  0xB0F7
+             stop:  0xB13D
+Creating ..\output_3500\rsrc\Funclet_FsDataDriveGetSerialNumber.src from [.ptextskiponeword], [.ptextfsdatadrivegetserialnumber].
+Module  Extracted:  Funclet_FsDataDriveGetSerialNumber.src
+             size:  9(dec)
+            start:  0xB0F7
+             stop:  0xB0FF
+Creating ..\output_3500\rsrc\Funclet_ChipSerialNumberInit.src from [.ptextskiponeword], [.ptextchipserialnumberinit].
+Module  Extracted:  Funclet_ChipSerialNumberInit.src
+             size:  127(dec)
+            start:  0xB0F7
+             stop:  0xB175
+Creating ..\output_3500\rsrc\Funclet_InternalMediaSerialNumberInit.src from [.ptextskiponeword], [.ptextintmediaserialnuminit].
+Module  Extracted:  Funclet_InternalMediaSerialNumberInit.src
+             size:  83(dec)
+            start:  0xB0F7
+             stop:  0xB149
+Creating ..\output_3500\rsrc\Funclet_ChipGetSerialNumber.src from [.ptextskiponeword], [.ptextchipgetserialnumber].
+Module  Extracted:  Funclet_ChipGetSerialNumber.src
+             size:  18(dec)
+            start:  0xB0F7
+             stop:  0xB108
+Creating ..\output_3500\rsrc\Funclet_CreateNullSerialNumber.src from [.ptextskiponeword], [.ptextcreatenullserialnumber].
+Module  Extracted:  Funclet_CreateNullSerialNumber.src
+             size:  89(dec)
+            start:  0xB0F7
+             stop:  0xB14F
+Creating ..\output_3500\rsrc\Funclet_ConvertHexToASCII.src from [.ptextskiponeword], [.ptextconverthextoascii].
+Module  Extracted:  Funclet_ConvertHexToASCII.src
+             size:  17(dec)
+            start:  0xB0F7
+             stop:  0xB107
+Creating ..\output_3500\rsrc\Funclet_LowResolutionAdcInit.src from [.ptextskiponeword], [.ptextlowresolutionadcinit].
+Module  Extracted:  Funclet_LowResolutionAdcInit.src
+             size:  161(dec)
+            start:  0xB0F7
+             stop:  0xB197
+Creating ..\output_3500\rsrc\Funclet_SysSettingsLoad.src from [SYSFUNCLET_SYS_SETTINGS_LOAD_P], [.ptextsyssettingsdat].
+Module  Extracted:  Funclet_SysSettingsLoad.src
+             size:  263(dec)
+            start:  0xB0F7
+             stop:  0xB1FD
+Creating ..\output_3500\rsrc\Funclet_SysSettingsSave.src from [SYSFUNCLET_SYS_SETTINGS_SAVE_P], [.ptextsyssettingsdat].
+Module  Extracted:  Funclet_SysSettingsSave.src
+             size:  263(dec)
+            start:  0xB0F7
+             stop:  0xB1FD
+             gaps:  3(dec)
+Creating ..\output_3500\rsrc\Funclet_SysGetSectorNum.src from [SYSFUNCLET_SYS_GET_SECTOR_NUM_P], [.ptextsyssettingsdat].
+Module  Extracted:  Funclet_SysGetSectorNum.src
+             size:  263(dec)
+            start:  0xB0F7
+             stop:  0xB1FD
+             gaps:  42(dec)
+Creating ..\output_3500\rsrc\Funclet_DisplayMenu.src from [SYSFUNCLET_DisplayMenu_P].
+Module  Extracted:  Funclet_DisplayMenu.src
+             size:  385(dec)
+            start:  0xB0F7
+             stop:  0xB277
+Creating ..\output_3500\rsrc\Funclet_DisplaySelectMenu.src from [SYSFUNCLET_DisplaySelectMenu_P].
+Module  Extracted:  Funclet_DisplaySelectMenu.src
+             size:  230(dec)
+            start:  0xB0F7
+             stop:  0xB1DC
+Creating ..\output_3500\rsrc\Funclet_EnableHeadphoneDetect.src from [SYSFUNCLET_EnableHeadphoneDetect_P].
+Module  Extracted:  Funclet_EnableHeadphoneDetect.src
+             size:  1(dec)
+            start:  0xB0F7
+             stop:  0xB0F7
+Creating ..\output_3500\rsrc\Funclet_CTLHeadphoneDetectInit.src from [SYSFUNCLET_CTLHeadphoneDetectInit_P].
+Module  Extracted:  Funclet_CTLHeadphoneDetectInit.src
+             size:  1(dec)
+            start:  0xB0F7
+             stop:  0xB0F7
+Creating ..\output_3500\rsrc\Funclet_InitializeFMTuner.src from [SYSFUNCLET_InitializeFMTuner_P].
+Module  Extracted:  Funclet_InitializeFMTuner.src
+             size:  209(dec)
+            start:  0xB0F7
+             stop:  0xB1C7
+Creating ..\output_3500\rsrc\Funclet_SysUpdateVolume.src from [SYSFUNCLET_SysUpdateVolume_P].
+Module  Extracted:  Funclet_SysUpdateVolume.src
+             size:  369(dec)
+            start:  0xB0F7
+             stop:  0xB267
+Creating ..\output_3500\rsrc\Funclet_itoa.src from [.ptextitoa].
+Module  Extracted:  Funclet_itoa.src
+             size:  115(dec)
+            start:  0xB0F7
+             stop:  0xB169
+Extract Funclets
+..\..\..\..\..\bin\extractcluster.exe ..\output_3500\player.abs -L..\..\..\..\..\etc\iolib.loc -F..\output_3500\player.map -P..\output_3500\rsrc
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_findfirst.src from [SYSFUNCLET_FINDFIRST_P].
+Module  Extracted:  funclet_findfirst.src
+             size:  215(dec)
+            start:  0xB0F7
+             stop:  0xB1CD
+Creating ..\output_3500\rsrc\funclet_findnext.src from [SYSFUNCLET_FINDNEXT_P].
+Module  Extracted:  funclet_findnext.src
+             size:  354(dec)
+            start:  0xB0F7
+             stop:  0xB258
+Creating ..\output_3500\rsrc\funclet_findclose.src from [SYSFUNCLET_FINDCLOSE_P].
+Module  Extracted:  funclet_findclose.src
+             size:  29(dec)
+            start:  0xB0F7
+             stop:  0xB113
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_encsetproperties.src from [SYSFUNCLET_EncSetProperties_P].
+Module  Extracted:  ..\output_3500\rsrc\funclet_encsetproperties.src
+             size:  171(dec)
+            start:  0xB0F7
+             stop:  0xB1A1
+Extract Funclet_ReadLFNRecord.src
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_readlfnrecord.src from [SYSFUNCLET_ReadLFNRecord_P].
+Module  Extracted:  ..\output_3500\rsrc\funclet_readlfnrecord.src
+             size:  83(dec)
+            start:  0xB0F7
+             stop:  0xB149
+Extract Funclet_LFNPopulate.src
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_lfnpopulate.src from [SYSFUNCLET_LFNPopulate_P].
+Module  Extracted:  ..\output_3500\rsrc\funclet_lfnpopulate.src
+             size:  120(dec)
+            start:  0xB0F7
+             stop:  0xB16E
+Extract Funclet_GetTextWidthAddressUnicode
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_gettextwidthaddressunicode.src from [SYSFUNCLET_GET_TEXT_WIDTH_ADDRESS_UNICODE_P], [.ptextunicode].
+Module  Extracted:  ..\output_3500\rsrc\funclet_gettextwidthaddressunicode.src
+             size:  367(dec)
+            start:  0xB0F7
+             stop:  0xB265
+             gaps:  34(dec)
+Extract Funclet_GetTextWidthResourceUnicode
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_gettextwidthresourceunicode.src from [SYSFUNCLET_GET_TEXT_WIDTH_RESOURCE_UNICODE_P], [.ptextunicode].
+Module  Extracted:  ..\output_3500\rsrc\funclet_gettextwidthresourceunicode.src
+             size:  367(dec)
+            start:  0xB0F7
+             stop:  0xB265
+             gaps:  11(dec)
+Extract Funclet_GetTextWidthAddressDBCS
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_gettextwidthaddressdbcs.src from [SYSFUNCLET_GET_TEXT_WIDTH_ADDRESS_DBCS_P], [.ptextunicode].
+Module  Extracted:  ..\output_3500\rsrc\funclet_gettextwidthaddressdbcs.src
+             size:  367(dec)
+            start:  0xB0F7
+             stop:  0xB265
+             gaps:  14(dec)
+Extract Funclet_GetTextWidthResourceDBCS
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_gettextwidthresourcedbcs.src from [SYSFUNCLET_GET_TEXT_WIDTH_RESOURCE_DBCS_P], [.ptextunicode].
+Module  Extracted:  ..\output_3500\rsrc\funclet_gettextwidthresourcedbcs.src
+             size:  367(dec)
+            start:  0xB0F7
+             stop:  0xB265
+Extract Funclet_LCDSetFont
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_lcdsetfont.src from [SYSFUNCLET_SET_FONT_P].
+Module  Extracted:  ..\output_3500\rsrc\funclet_lcdsetfont.src
+             size:  101(dec)
+            start:  0xB0F7
+             stop:  0xB15B
+Extract Funclet_sprinttf_int
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_sprintf_int.src from [SYSFUNCLET_sprintf_int_P].
+Module  Extracted:  ..\output_3500\rsrc\funclet_sprintf_int.src
+             size:  393(dec)
+            start:  0xB0F7
+             stop:  0xB27F
+Extract Funclet_GetUnicodeCharacterBitmap
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\funclet_getunicodecharacterbitmap.src from [SYSFUNCLET_GetUnicodeCharacterBitmap_P], [.ptextunicode].
+Module  Extracted:  ..\output_3500\rsrc\funclet_getunicodecharacterbitmap.src
+             size:  367(dec)
+            start:  0xB0F7
+             stop:  0xB265
+             gaps:  34(dec)
+Converting Bitmap ..\rsrc\bitmaps\playmode\ab_mark_a.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\ab_mark_b.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\ab_mark_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\track_once_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\shuffle_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\shuffle_folder_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\shuffle_repeat_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\repeatsong_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\repeatall_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\repeat_folder_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\playmode\repeatallclear_icon.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_00.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_01.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_02.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_03.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_charging.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_charge_done.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_removed.bmp
+Converting Bitmap ..\..\resources\bitmaps\music_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\voice_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\mic_recording_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\lock_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\radio_icon.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\logos\startup_132.bmp
+Copying Creative bitmap to device bitmap ..\output_3500\rsrc\startup1.src
+        1 file(s) copied.
+Converting Bitmap ..\..\..\..\..\bitmaps\logos\startup_sx.bmp
+Copying MuVo SX bitmap to device bitmap ..\output_3500\rsrc\startup2.src
+        1 file(s) copied.
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_clear_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_rock_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_jazz_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_classic_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_pop_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_custom_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\warning_error\lowbattery.bmp
+Converting Bitmap ..\..\resources\bitmaps\warning_error\low_disk_space.bmp
+Converting Bitmap ..\..\resources\bitmaps\warning_error\disk_full.bmp
+Converting Bitmap ..\..\resources\bitmaps\warning_error\file_error.bmp
+Converting Bitmap ..\..\resources\bitmaps\warning_error\hardware_error.bmp
+Converting Bitmap ..\..\resources\bitmaps\warning_error\firmware_error.bmp
+Converting Bitmap ..\..\resources\bitmaps\warning_error\error_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\warning_error\mediaerror.bmp
+Converting Bitmap ..\..\resources\bitmaps\shutdown\shutdown_0.bmp
+Converting Bitmap ..\..\resources\bitmaps\shutdown\shutdown_1.bmp
+Converting Bitmap ..\..\resources\bitmaps\shutdown\shutdown_2.bmp
+Converting Bitmap ..\..\resources\bitmaps\shutdown\shutdown_3.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\play_mode_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\eq_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\skip_folder_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\music_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\voice_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\recording_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fmradio_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\delete_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\settings_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\lock_bitmap.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_ab.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_repeat_track.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_repeat_all.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_repeat_folder.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_track_once.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_shuffle_repeat.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_shuffle_once.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_shuffle_folder.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\pm_normal.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\eq_normal.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\eq_rock.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\eq_classical.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\eq_jazz.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\eq_pop.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\eq_custom.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\del_confirm.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\set_rotate_lcd.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\set_contrast.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\set_backlight.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\set_language.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\set_idle_shutdown.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\set_information.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\rotate_lcd_confirm.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\lock_confirm.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\unlock_confirm.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_deletepreset.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_savepreset.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_autoscan.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_recording.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_scrollermode.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_region.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_deletepreset_confirm.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_autoscan_confirm.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_region_japanese.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\fm_region_world.bmp
+Converting Bitmap ..\..\resources\bitmaps\fm_stereo_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\fm_mono_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\broken_bar\fourbar_zero.bmp
+Converting Bitmap ..\..\resources\bitmaps\broken_bar\fourbar_one.bmp
+Converting Bitmap ..\..\resources\bitmaps\broken_bar\fourbar_two.bmp
+Converting Bitmap ..\..\resources\bitmaps\broken_bar\fourbar_three.bmp
+Converting Bitmap ..\..\resources\bitmaps\broken_bar\fourbar_four.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\menu_cancel.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\left_triangle.bmp
+Converting Bitmap ..\..\resources\bitmaps\menu\right_triangle.bmp
+Converting Bitmap ..\..\resources\bitmaps\play_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\pause_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\stop_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\record_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\fforward_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\rewind_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\next_track_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\prev_track_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\paused_record_icon.bmp
+Converting Bitmap ..\..\resources\bitmaps\volume_view_sx.bmp
+Copying Pager Slim volume view ..\output_3500\rsrc\volume_view.src
+        1 file(s) copied.
+Copying Pager Slim rotated volume view ..\output_3500\rsrc\volume_view_rotate.src
+        1 file(s) copied.
+Converting Bitmap ..\..\resources\bitmaps\contrast_view_sx.bmp
+Copying Pager Slim Contrast view ..\output_3500\rsrc\contrast_view.src
+        1 file(s) copied.
+Converting Bitmap ..\..\resources\bitmaps\empty_bar_45.bmp
+Converting Bitmap ..\..\resources\bitmaps\empty_bar_81.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\custom_eq_view_top.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\custom_eq_view_left.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_empty_bar.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_shaded_bar.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_lever.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\eq_lever_inverse.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\tick.bmp
+Converting Bitmap ..\..\resources\bitmaps\eq\tick_inverse.bmp
+Converting Text file ..\rsrc\strings\string_voice.txt
+Converting Text file ..\rsrc\strings\string_song.txt
+Converting Text file ..\rsrc\strings\string_music_menu.txt
+Converting Text file ..\rsrc\strings\string_voice_menu.txt
+Converting Text file ..\rsrc\strings\string_fmtuner_menu.txt
+Converting Text file ..\rsrc\strings\string_settings_menu.txt
+Converting Text file ..\rsrc\strings\string_eq_menu.txt
+Converting Text file ..\rsrc\strings\string_10min_menu.txt
+Converting Text file ..\rsrc\strings\string_1min_menu.txt
+Converting Text file ..\rsrc\strings\string_2min_menu.txt
+Converting Text file ..\rsrc\strings\string_5min_menu.txt
+Converting Text file ..\rsrc\strings\string_classic_menu.txt
+Converting Text file ..\rsrc\strings\string_contrast_menu.txt
+Converting Text file ..\rsrc\strings\string_disable_menu.txt
+Converting Text file ..\rsrc\strings\string_exit_menu.txt
+Converting Text file ..\rsrc\strings\string_jazz_menu.txt
+Converting Text file ..\rsrc\strings\string_normal_menu.txt
+Converting Text file ..\rsrc\strings\string_playmode_menu.txt
+Converting Text file ..\rsrc\strings\string_pop_menu.txt
+Converting Text file ..\rsrc\strings\string_pwrsavings_menu.txt
+Converting Text file ..\rsrc\strings\string_repeat1_menu.txt
+Converting Text file ..\rsrc\strings\string_repeatall_menu.txt
+Converting Text file ..\rsrc\strings\string_repeatshuffle_menu.txt
+Converting Text file ..\rsrc\strings\string_rock_menu.txt
+Converting Text file ..\rsrc\strings\string_shuffle_menu.txt
+Converting Text file ..\rsrc\strings\string_system_menu.txt
+Converting Text file ..\rsrc\strings\string_about_menu.txt
+Converting Text file ..\rsrc\strings\string_backlight_menu.txt
+Converting Text file ..\rsrc\strings\string_delete_menu.txt
+Converting Text file ..\rsrc\strings\string_record_menu.txt
+Converting Text file ..\rsrc\strings\string_mb.txt
+Converting Bitmap ..\rsrc\bitmaps\settings_title.bmp
+Converting Bitmap ..\rsrc\bitmaps\erase_title.bmp
+Converting Text file ..\rsrc\strings\string_record_settings.txt
+Converting Text file ..\rsrc\strings\string_sample_rate.txt
+Converting Text file ..\rsrc\strings\string_device.txt
+Converting Text file ..\rsrc\strings\string_encoder.txt
+Converting Text file ..\rsrc\strings\string_internal.txt
+Converting Text file ..\rsrc\strings\string_external.txt
+Converting Text file ..\rsrc\strings\string_adpcm.txt
+Converting Text file ..\rsrc\strings\string_pcm.txt
+Converting Text file ..\rsrc\strings\string_msadpcm.txt
+Converting Text file ..\rsrc\strings\string_imadpcm.txt
+Converting Text file ..\rsrc\strings\string_location.txt
+Converting Text file ..\rsrc\strings\string_source.txt
+Converting Text file ..\rsrc\strings\string_microphone.txt
+Converting Text file ..\rsrc\strings\string_linein.txt
+Converting Text file ..\rsrc\strings\string_fm.txt
+Converting Text file ..\rsrc\strings\string_channels.txt
+Converting Text file ..\rsrc\strings\string_bits.txt
+Converting Text file ..\rsrc\strings\string_4.txt
+Converting Text file ..\rsrc\strings\string_8.txt
+Converting Text file ..\rsrc\strings\string_16.txt
+Converting Text file ..\rsrc\strings\string_24.txt
+Converting Text file ..\rsrc\strings\string_mono.txt
+Converting Text file ..\rsrc\strings\string_stereo.txt
+Converting Text file ..\rsrc\strings\string_8000hz.txt
+Converting Text file ..\rsrc\strings\string_11025hz.txt
+Converting Text file ..\rsrc\strings\string_16000hz.txt
+Converting Text file ..\rsrc\strings\string_22050hz.txt
+Converting Text file ..\rsrc\strings\string_32000hz.txt
+Converting Text file ..\rsrc\strings\string_44100hz.txt
+Converting Text file ..\rsrc\strings\string_48000hz.txt
+Converting Text file ..\rsrc\strings\string_spaces.txt
+Converting Text file ..\rsrc\strings\string_no_files.txt
+Converting Bitmap ..\rsrc\bitmaps\play_icon_with_border.bmp
+Converting Bitmap ..\rsrc\bitmaps\pause_icon_with_border.bmp
+Converting Bitmap ..\rsrc\bitmaps\stop_icon_with_border.bmp
+Converting Bitmap ..\rsrc\bitmaps\record_icon_with_border.bmp
+Converting Bitmap ..\rsrc\bitmaps\paused_record_icon_with_border.bmp
+Converting Bitmap ..\rsrc\bitmaps\ffwd_icon_with_border.bmp
+Converting Bitmap ..\rsrc\bitmaps\rwnd_icon_with_border.bmp
+Converting Bitmap ..\rsrc\bitmaps\del_warning_no.bmp
+Converting Bitmap ..\rsrc\bitmaps\del_warning_yes.bmp
+Converting Bitmap ..\rsrc\bitmaps\del_warning_line1.bmp
+Converting Bitmap ..\rsrc\bitmaps\del_warning_line2.bmp
+Converting Bitmap ..\rsrc\bitmaps\vbr.bmp
+Converting Bitmap ..\rsrc\bitmaps\bitmap_warning.bmp
+Converting Bitmap ..\rsrc\bitmaps\bitmap_device_full.bmp
+Converting Bitmap ..\rsrc\bitmaps\internal_media.bmp
+Converting Bitmap ..\rsrc\bitmaps\external_media.bmp
+Converting Bitmap ..\rsrc\bitmaps\about_title.bmp
+Converting Bitmap ..\rsrc\bitmaps\backlight_title.bmp
+Converting Bitmap ..\rsrc\bitmaps\backlight_state_on.bmp
+Converting Bitmap ..\rsrc\bitmaps\backlight_state_off.bmp
+Converting Bitmap ..\rsrc\bitmaps\player_name.bmp
+Converting Bitmap ..\rsrc\bitmaps\repeatsongclear_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\shuffleclear_icon.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_04.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_05.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_06.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_07.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_08.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_09.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\battery\8x8\battery_10.bmp
+Converting Bitmap ..\rsrc\bitmaps\disk_small.bmp
+Converting Bitmap ..\rsrc\bitmaps\lock_small.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_music_mode.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_voice_mode.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_00.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_01.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_02.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_03.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_04.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_05.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_06.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_07.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_08.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_09.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_10.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_11.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_12.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_13.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_14.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_15.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_16.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_17.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_18.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_19.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_20.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_21.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_22.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_23.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_24.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_25.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_26.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_27.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_28.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_29.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_30.bmp
+Converting Bitmap ..\rsrc\bitmaps\icon_vol_31.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_title.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_frame.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level0.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level1.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level2.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level3.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level4.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level5.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level6.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level7.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level8.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level9.bmp
+Converting Bitmap ..\rsrc\bitmaps\contrast_level10.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\logos\creative.bmp
+Converting Bitmap ..\rsrc\bitmaps\locked.bmp
+Converting Bitmap ..\rsrc\bitmaps\rock_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\jazz_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\classic_icon.bmp
+Converting Bitmap ..\rsrc\bitmaps\pop_icon.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\strings\arial_8\string_arial_8_continue_holding_to_power_off.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\status\16\status_16_6_steps_0.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\status\16\status_16_6_steps_1.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\status\16\status_16_6_steps_2.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\status\16\status_16_6_steps_3.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\status\16\status_16_6_steps_4.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\status\16\status_16_6_steps_5.bmp
+Converting Bitmap ..\..\..\..\..\bitmaps\icons\status\16\status_16_6_steps_6.bmp
+Converting Bitmap ..\rsrc\bitmaps\delete_successful.bmp
+Converting Bitmap ..\rsrc\bitmaps\delete_error.bmp
+Converting Bitmap ..\rsrc\bitmaps\exmediaerror1.bmp
+Converting Bitmap ..\rsrc\bitmaps\exmediaerror2.bmp
+Converting Bitmap ..\rsrc\bitmaps\inmediaerror1.bmp
+Extract ..\output_3500\rsrc\mediastartup.src
+..\..\..\..\..\bin\extractcluster.exe ..\output_3500\player.abs -L..\..\..\..\..\etc\mediastartup.loc -F..\output_3500\player.map -P..\output_3500\rsrc
+ExtractCluster:  Version 2.2 
+Creating ..\output_3500\rsrc\mediastartup.src from .ptextnandmediainit, .ptextnandsystemdriveinit, .ptextnandmediadiscover, [.ptextnandmediagetinfo].
+Module  Extracted:  mediastartup.src
+             size:  2682(dec)
+            start:  0x6774
+             stop:  0x71ED
+Creating ..\output_3500\rsrc\nanddatadriveinit.src from [.ptextnanddatadriveinit], [.ptextnddlookuprblock], [.ptextnddgetusectorsmap], [.ptextnddublkutils], [.ptextnddaddblktobbtbl], [.ptextnddsearchbbtblforphysblock].
+Module  Extracted:  nanddatadriveinit.src
+             size:  2471(dec)
+            start:  0x6774
+             stop:  0x711A
+Creating ..\output_3500\rsrc\nanddatadrivereadsector.src from [.ptextnanddatadrivegetinfo], [.ptextnanddatadrivereadsector], [.ptextnddgetusectorsmap], [.ptextnddconvertlogicaltorelative], [.ptextnddlookuprblock], [.ptextnddlookupublock], [.ptextnddlookupusector], [.ptextnddprotectublocks], [.ptextnddconvertrelativetophysical], [.ptextnddlinconvertrelativetophys], [.ptextnanddatadrivewritesector], [.ptextnddublkutils], [.ptextnddaddblktobbtbl], [.ptextnddsearchbbtblforphysblock], [.ptextnddflush].
+Module  Extracted:  nanddatadrivereadsector.src
+             size:  2482(dec)
+            start:  0x6774
+             stop:  0x7125
+             gaps:  392(dec)
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcmediastartup.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcerase.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcinfo.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcreadwrite.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcenumerate.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcresetdevice.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcprocesscsd.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcprocesscid.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcprocesscid2.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcdetectpresence.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmcserialnumberinit.src
+        1 file(s) copied.
+copy ..\Rsrc\null.src ..\output_3500\rsrc\mmccheckwriteprotect.src
+        1 file(s) copied.
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3500\rsrc\string_recordtest_menu.src
+        1 file(s) copied.
+copy ..\..\..\..\..\resources\misc\null_data.src ..\output_3500\rsrc\test_title.src
+        1 file(s) copied.
+Creating ..\output_3500\resource.bin
+
+ Command Parser Successful.
+ Product   Version : 1.0.3
+ Component Version : 1.0.3
+ Resource Compiler Successfull 
+  Product Version:  1.0.3
+Component Version:  1.0.3
+Num Resources Reported = 335
+Each table entry has a corresponding resource header at the specified File Offset.
+All resources are contiguous
+Success:  file format is valid
+Extract System S-rec for 3500 device family
+ExtractCluster:  Version 2.2 
+SREC file created successfully
+Conversion successful
+*******************************************
+************ BUILD SUCCESSFUL  ************
+******************************************* 
+        1 file(s) copied.
+        1 file(s) copied.
